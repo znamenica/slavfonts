@@ -571,7 +571,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 16 9
+WinInfo: 144 16 9
 TeXData: 1 0 0 184320 92160 61440 457728 1048576 61440 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "titlo"  "+BCEEQwQxBEIEMAQxBDsEOARGBDAA Mark to base attachment +BEEEPwRABDAEMgQ6BDAA 0" "titlo1"  "+BCEEQwQxBEIEMAQxBDsEOARGBDAA Mark to base attachment +BEEEPwRABDAEMgQ6BDAA 0" "bukvotitlo"  "+BCEEQwQxBEIEMAQxBDsEOARGBDAA Mark to Mark attachment +BEEEPwRABDAEMgQ6BDAA 1" 
 BeginChars: 65539 280
@@ -1278,7 +1278,7 @@ EndChar
 StartChar: nadcherk
 Encoding: 772 772 26
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -1292,10 +1292,10 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: krstkost
+StartChar: krattso
 Encoding: 774 774 27
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -1329,7 +1329,7 @@ EndChar
 StartChar: krapka
 Encoding: 775 775 28
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -1350,7 +1350,7 @@ EndChar
 StartChar: dvokrapka
 Encoding: 776 776 29
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -1378,10 +1378,10 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dvoinoje_ostroje_udarenije
+StartChar: dvoinoje_ostretso
 Encoding: 779 779 30
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -1410,10 +1410,10 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dvoinoje_tupoje_udarenije
+StartChar: dvoinaja_chazhes
 Encoding: 783 783 31
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -1442,7 +1442,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: tupoje_udarenije
+StartChar: chazhis
 Encoding: 832 832 32
 Width: 0
 GlyphClass: 4
@@ -1464,7 +1464,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: ostroje_udarenije
+StartChar: ostretso
 Encoding: 833 833 33
 Width: 0
 GlyphClass: 4
@@ -6323,7 +6323,7 @@ EndChar
 StartChar: titlo
 Encoding: 1155 1155 134
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -6349,10 +6349,10 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: kamora
+StartChar: vozglas
 Encoding: 1156 1156 135
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -6376,10 +6376,10 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dasja
+StartChar: zvateltso
 Encoding: 1157 1157 136
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -6406,7 +6406,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: varija
+StartChar: umiliteltso
 Encoding: 1158 1158 137
 Width: 0
 GlyphClass: 4
@@ -6436,7 +6436,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: bukvotitlo
+StartChar: velij_vozglas
 Encoding: 1159 1159 138
 Width: 0
 GlyphClass: 4
@@ -6474,7 +6474,7 @@ EndChar
 StartChar: legion
 Encoding: 1160 1160 139
 Width: 375
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -6492,7 +6492,7 @@ EndChar
 StartChar: leodr
 Encoding: 1161 1161 140
 Width: 669
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -6932,7 +6932,7 @@ EndChar
 StartChar: tma
 Encoding: 8413 8413 149
 Width: 242
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -6966,7 +6966,7 @@ EndChar
 StartChar: buky_titlo
 Encoding: 11744 11744 150
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -7011,7 +7011,7 @@ EndChar
 StartChar: vede_titlo
 Encoding: 11745 11745 151
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -7054,7 +7054,7 @@ EndChar
 StartChar: glagol_titlo
 Encoding: 11746 11746 152
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -7076,7 +7076,7 @@ EndChar
 StartChar: dobro_titlo
 Encoding: 11747 11747 153
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -7113,7 +7113,7 @@ EndChar
 StartChar: zhivete_titlo
 Encoding: 11748 11748 154
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -7157,7 +7157,7 @@ EndChar
 StartChar: zemlja_titlo
 Encoding: 11749 11749 155
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -7213,7 +7213,7 @@ EndChar
 StartChar: kako_titlo
 Encoding: 11750 11750 156
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -7263,7 +7263,7 @@ EndChar
 StartChar: ljudi_titlo
 Encoding: 11751 11751 157
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -7294,7 +7294,7 @@ EndChar
 StartChar: myslete_titlo
 Encoding: 11752 11752 158
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -7372,7 +7372,7 @@ EndChar
 StartChar: on_titlo
 Encoding: 11754 11754 160
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -7404,7 +7404,7 @@ EndChar
 StartChar: pokoj_titlo
 Encoding: 11755 11755 161
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -7431,7 +7431,7 @@ EndChar
 StartChar: rtsy_titlo
 Encoding: 11756 11756 162
 Width: 1
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -7465,7 +7465,7 @@ EndChar
 StartChar: slovo_titlo
 Encoding: 11757 11757 163
 Width: 1
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -7498,7 +7498,7 @@ EndChar
 StartChar: tverdo_titlo
 Encoding: 11758 11758 164
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -7530,7 +7530,7 @@ EndChar
 StartChar: kher_titlo
 Encoding: 11759 11759 165
 Width: 1
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -7591,7 +7591,7 @@ EndChar
 StartChar: tsy_titlo
 Encoding: 11760 11760 166
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -7635,7 +7635,7 @@ EndChar
 StartChar: cherv_titlo
 Encoding: 11761 11761 167
 Width: 1
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -7662,7 +7662,7 @@ EndChar
 StartChar: sha_titlo
 Encoding: 11762 11762 168
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -7699,7 +7699,7 @@ EndChar
 StartChar: shcha_titlo
 Encoding: 11763 11763 169
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -7751,7 +7751,7 @@ EndChar
 StartChar: fita_titlo
 Encoding: 11764 11764 170
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -7805,7 +7805,7 @@ EndChar
 StartChar: slovo_tverdo_titlo
 Encoding: 11765 11765 171
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -7863,7 +7863,7 @@ EndChar
 StartChar: az_titlo
 Encoding: 11766 11766 172
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -7903,7 +7903,7 @@ EndChar
 StartChar: est_titlo
 Encoding: 11767 11767 173
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -7956,7 +7956,7 @@ EndChar
 StartChar: gherv_titlo
 Encoding: 11768 11768 174
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -8008,7 +8008,7 @@ EndChar
 StartChar: ukon_titlo
 Encoding: 11769 11769 175
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -8060,7 +8060,7 @@ EndChar
 StartChar: ed_titlo
 Encoding: 11770 11770 176
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -8114,7 +8114,7 @@ EndChar
 StartChar: jus_titlo
 Encoding: 11771 11771 177
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -8160,7 +8160,7 @@ EndChar
 StartChar: jaz_titlo
 Encoding: 11772 11772 178
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -8225,7 +8225,7 @@ EndChar
 StartChar: us_malyj_titlo
 Encoding: 11773 11773 179
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -8274,7 +8274,7 @@ EndChar
 StartChar: us_bolshoj_titlo
 Encoding: 11774 11774 180
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -8329,7 +8329,7 @@ EndChar
 StartChar: jus_bolshoj_titlo
 Encoding: 11775 11775 181
 Width: 762
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -10782,7 +10782,7 @@ EndChar
 StartChar: pokrytie_titlo
 Encoding: 42607 42607 227
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -10814,7 +10814,7 @@ EndChar
 StartChar: vran
 Encoding: 42608 42608 228
 Width: 345
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -10832,7 +10832,7 @@ EndChar
 StartChar: koloda
 Encoding: 42609 42609 229
 Width: 174
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -10862,7 +10862,7 @@ EndChar
 StartChar: tmatem
 Encoding: 42610 42610 230
 Width: 336
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -10919,10 +10919,10 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: kavyka_titlo
+StartChar: volniteltso_titlo
 Encoding: 42620 42620 232
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -10933,7 +10933,7 @@ EndChar
 StartChar: pajerok_titlo
 Encoding: 42621 42621 233
 Width: 1
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -10941,7 +10941,7 @@ Refer: 235 42623 N 1 0 0 1 -342 -2 2
 Validated: 1
 EndChar
 
-StartChar: kavyka
+StartChar: volniteltso
 Encoding: 42622 42622 234
 Width: 342
 GlyphClass: 2
@@ -11899,10 +11899,10 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: iso
+StartChar: verkhneje_zvateltso
 Encoding: 57440 57440 255
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -11911,10 +11911,10 @@ Refer: 33 833 N 1 0 0 1 -8 -10 2
 Validated: 1
 EndChar
 
-StartChar: apostrofe
+StartChar: nizhneje_zvateltso
 Encoding: 57441 57441 256
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -11923,10 +11923,10 @@ Refer: 137 1158 N 1 0 0 1 -48 2 2
 Validated: 1
 EndChar
 
-StartChar: Iso
+StartChar: Verkhneje_zvateltso
 Encoding: 57443 57443 257
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -11935,10 +11935,10 @@ Refer: 271 57573 N 1 0 0 1 0 0 2
 Validated: 1
 EndChar
 
-StartChar: Apostrofe
+StartChar: Nizhneje_zvateltso
 Encoding: 57444 57444 258
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -11947,10 +11947,10 @@ Refer: 272 57574 N 1 0 0 1 0 0 2
 Validated: 1
 EndChar
 
-StartChar: Dasja
+StartChar: Umiliteltso1
 Encoding: 57446 57446 259
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -11977,10 +11977,10 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: legeon_osmukha
+StartChar: legion_osmukha
 Encoding: 57454 57454 260
 Width: 0
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 LayerCount: 2
 Fore
@@ -12004,10 +12004,10 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: Kamora
+StartChar: Vozglas
 Encoding: 57455 57455 261
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -12031,7 +12031,7 @@ EndChar
 StartChar: tverdo_titlo_vysokij
 Encoding: 57459 57459 262
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -12067,7 +12067,7 @@ EndChar
 StartChar: fert_titlo
 Encoding: 57461 57461 263
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -12133,7 +12133,7 @@ EndChar
 StartChar: ery_titlo
 Encoding: 57463 57463 264
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -12168,7 +12168,7 @@ EndChar
 StartChar: ere_titlo
 Encoding: 57464 57464 265
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -12195,10 +12195,10 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: Dvojnoje_tupoje_udarenie
+StartChar: Dvojnaja_chazhes
 Encoding: 57568 57568 266
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -12225,10 +12225,10 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: Dvojnoje_ostroje_udarenie
+StartChar: Dvojnoje_ostretso
 Encoding: 57569 57569 267
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -12255,10 +12255,10 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: Obshcheje_udarenije
+StartChar: Chast_zvateltsa
 Encoding: 57570 57570 268
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -12273,10 +12273,10 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: Tupoje_udarenije
+StartChar: Chazhes
 Encoding: 57571 57571 269
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -12294,10 +12294,10 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: Ostroje_udarenije
+StartChar: Ostretso
 Encoding: 57572 57572 270
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -12315,10 +12315,10 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dasja_vysokaja
+StartChar: vysokoje_umiliteltso
 Encoding: 57573 57573 271
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -12345,10 +12345,10 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: Dasja1
+StartChar: Umiliteltso
 Encoding: 57574 57574 272
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -12377,10 +12377,10 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dasja1
+StartChar: umiliteltso1
 Encoding: 57575 57575 273
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -12406,10 +12406,10 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: Kratkost
+StartChar: Krattso
 Encoding: 57576 57576 274
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -12430,10 +12430,10 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: Bukvotitlo
+StartChar: Velij_legion_osmukha
 Encoding: 57577 57577 275
 Width: 969
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -12464,10 +12464,10 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dasja_vysokaja1
+StartChar: zvateltso_vysokaja1
 Encoding: 57578 57578 276
 Width: 969
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -12494,7 +12494,7 @@ EndChar
 StartChar: vran_osmukha
 Encoding: 57584 57584 277
 Width: 204
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 LayerCount: 2
 Fore
@@ -12516,10 +12516,10 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: tmatem_tret
+StartChar: tmatem_tretjushka
 Encoding: 57586 57586 278
 Width: 342
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 LayerCount: 2
 Fore
@@ -12546,7 +12546,7 @@ EndChar
 StartChar: tmetem_glavok
 Encoding: 57587 57587 279
 Width: 342
-GlyphClass: 2
+GlyphClass: 1
 Flags: W
 LayerCount: 2
 Fore

@@ -13,13 +13,14 @@ Descent: 205
 LayerCount: 2
 Layer: 0 1 "+BBcEMAQ0BD0EOAQ5 +BD8EOwQwBD0A"  1
 Layer: 1 1 "+BB8ENQRABDUENAQ9BDgEOQAA +BD8EOwQwBD0A"  0
+NeedsXUIDChange: 1
 XUID: [1021 535 545739686 6183264]
 FSType: 0
 OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1249988326
-ModificationTime: 1279051568
+ModificationTime: 1279055665
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -571,10 +572,10 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 144 16 9
+WinInfo: 0 16 9
 TeXData: 1 0 0 184320 92160 61440 457728 1048576 61440 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "titlo"  "+BCEEQwQxBEIEMAQxBDsEOARGBDAA Mark to base attachment +BEEEPwRABDAEMgQ6BDAA 0" "titlo1"  "+BCEEQwQxBEIEMAQxBDsEOARGBDAA Mark to base attachment +BEEEPwRABDAEMgQ6BDAA 0" "bukvotitlo"  "+BCEEQwQxBEIEMAQxBDsEOARGBDAA Mark to Mark attachment +BEEEPwRABDAEMgQ6BDAA 1" 
-BeginChars: 65539 280
+BeginChars: 65539 279
 
 StartChar: .notdef
 Encoding: 65536 -1 0
@@ -1570,7 +1571,7 @@ GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 251 57436 N 1 0 0 1 0 0 2
+Refer: 250 57436 N 1 0 0 1 0 0 2
 Validated: 1
 EndChar
 
@@ -2129,7 +2130,7 @@ GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 274 57576 N 1 0 0 1 684 4 2
+Refer: 273 57576 N 1 0 0 1 684 4 2
 Refer: 44 1048 N 1 0 0 1 0 0 2
 Validated: 1
 EndChar
@@ -2809,7 +2810,7 @@ GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 242 57378 N 1 0 0 1 0 0 2
+Refer: 241 57378 N 1 0 0 1 0 0 2
 Validated: 1
 EndChar
 
@@ -4146,7 +4147,7 @@ SplineSet
  810 451 l 1,0,1
 EndSplineSet
 Validated: 1
-Kerns2: 33 -290 "+BCEEQwQxBEIEMAQxBDsEOARGBDAA +BB8EMARABD0EPgQ1 +BEAEMAQ3BDwENQRJBDUEPQQ4BDUA (+BDoENQRABD0EOAQ9BDMA) +BEEEPwRABDAEMgQ6BDAA 2"  137 -185 "+BCEEQwQxBEIEMAQxBDsEOARGBDAA +BB8EMARABD0EPgQ1 +BEAEMAQ3BDwENQRJBDUEPQQ4BDUA (+BDoENQRABD0EOAQ9BDMA) +BEEEPwRABDAEMgQ6BDAA 2" 
+Kerns2: 33 -290 "+BCEEQwQxBEIEMAQxBDsEOARGBDAA +BB8EMARABD0EPgQ1 +BEAEMAQ3BDwENQRJBDUEPQQ4BDUA (+BDoENQRABD0EOAQ9BDMA) +BEEEPwRABDAEMgQ6BDAA 2"  136 -185 "+BCEEQwQxBEIEMAQxBDsEOARGBDAA +BB8EMARABD0EPgQ1 +BEAEMAQ3BDwENQRJBDUEPQQ4BDUA (+BDoENQRABD0EOAQ9BDMA) +BEEEPwRABDAEMgQ6BDAA 2" 
 EndChar
 
 StartChar: shcha
@@ -4158,7 +4159,7 @@ AnchorPoint: "titlo1" 422 483 basechar 0
 AnchorPoint: "titlo" 422 483 basechar 0
 LayerCount: 2
 Fore
-Refer: 243 57379 N 1 0 0 1 0 0 2
+Refer: 242 57379 N 1 0 0 1 0 0 2
 Validated: 1
 EndChar
 
@@ -4216,8 +4217,8 @@ GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 252 57437 N 1 0 0 1 447 0 2
-Refer: 250 57435 N 1 0 0 1 0 0 2
+Refer: 251 57437 N 1 0 0 1 447 0 2
+Refer: 249 57435 N 1 0 0 1 0 0 2
 Validated: 1
 EndChar
 
@@ -4424,69 +4425,20 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: NameMe.1110
-Encoding: 1110 1110 97
-Width: 485
-GlyphClass: 2
-Flags: W
-LayerCount: 2
-Fore
-SplineSet
-0 -455 m 0,0,1
- -28 -455 -28 -455 -28 -430 c 0,2,3
- -28 -412 -28 -412 -6 -372 c 0,4,5
- 18 -327 18 -327 37 -270 c 2,6,-1
- 165 120 l 1,7,-1
- 56 438 l 2,8,9
- 54 441 54 441 54 444 c 256,10,11
- 54 447 54 447 62 447 c 2,12,-1
- 98 449 l 2,13,14
- 152 452 152 452 169 440 c 1,15,-1
- 227 271 l 1,16,17
- 232 286 232 286 239 299 c 1,18,-1
- 250 328 l 2,19,20
- 269 379 269 379 292 410 c 0,21,22
- 323 453 323 453 385 453 c 0,23,24
- 419 453 419 453 434 456 c 0,25,26
- 439 457 439 457 441 449 c 1,27,-1
- 441 435 l 1,28,-1
- 429 400 l 1,29,30
- 424 400 424 400 424 365.5 c 128,-1,31
- 424 331 424 331 430 315 c 0,32,33
- 432 310 432 310 424 311 c 0,34,35
- 415 312 415 312 411 315 c 0,36,37
- 366 351 366 351 328 351 c 0,38,39
- 293 351 293 351 270 307 c 0,40,41
- 258 284 258 284 241 230 c 1,42,-1
- 439 -58 l 2,43,44
- 439 -59 439 -59 439 -60 c 0,45,46
- 439 -75 439 -75 397 -75 c 128,-1,47
- 355 -75 355 -75 333 -71 c 1,48,-1
- 304 9 l 1,49,-1
- 179 76 l 1,50,-1
- 95 -243 l 1,51,52
- 81 -292 81 -292 71 -332.5 c 128,-1,53
- 61 -373 61 -373 50.5 -403 c 128,-1,54
- 40 -433 40 -433 24 -444 c 128,-1,55
- 8 -455 8 -455 0 -455 c 0,0,1
-EndSplineSet
-Validated: 33
-EndChar
-
 StartChar: jizhe
-Encoding: 1111 1111 98
+Encoding: 1111 1111 97
 Width: 261
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
 Refer: 29 776 N 1 0 0 1 389 0 2
-Refer: 237 57357 N 1 0 0 1 0 0 2
+Refer: 236 57357 N 1 0 0 1 0 0 2
 Validated: 1
 EndChar
 
 StartChar: Omegha
-Encoding: 1120 1120 99
+Encoding: 1120 1120 98
 Width: 960
 GlyphClass: 2
 Flags: W
@@ -4536,7 +4488,7 @@ Validated: 1
 EndChar
 
 StartChar: omegha
-Encoding: 1121 1121 100
+Encoding: 1121 1121 99
 Width: 776
 GlyphClass: 2
 Flags: W
@@ -4589,7 +4541,7 @@ Validated: 1
 EndChar
 
 StartChar: Ed
-Encoding: 1122 1122 101
+Encoding: 1122 1122 100
 Width: 859
 GlyphClass: 2
 Flags: W
@@ -4647,7 +4599,7 @@ Validated: 1
 EndChar
 
 StartChar: ed
-Encoding: 1123 1123 102
+Encoding: 1123 1123 101
 Width: 672
 GlyphClass: 2
 Flags: W
@@ -4705,7 +4657,7 @@ Validated: 1
 EndChar
 
 StartChar: Jest
-Encoding: 1124 1124 103
+Encoding: 1124 1124 102
 Width: 953
 GlyphClass: 2
 Flags: W
@@ -4803,7 +4755,7 @@ Validated: 1
 EndChar
 
 StartChar: jest
-Encoding: 1125 1125 104
+Encoding: 1125 1125 103
 Width: 530
 GlyphClass: 2
 Flags: W
@@ -4859,7 +4811,7 @@ Validated: 1
 EndChar
 
 StartChar: Us_malyj
-Encoding: 1126 1126 105
+Encoding: 1126 1126 104
 Width: 909
 GlyphClass: 2
 Flags: W
@@ -4926,7 +4878,7 @@ Validated: 1
 EndChar
 
 StartChar: us_malyj
-Encoding: 1127 1127 106
+Encoding: 1127 1127 105
 Width: 637
 GlyphClass: 2
 Flags: W
@@ -4984,7 +4936,7 @@ Validated: 1
 EndChar
 
 StartChar: Jus_malyj
-Encoding: 1128 1128 107
+Encoding: 1128 1128 106
 Width: 1130
 GlyphClass: 2
 Flags: W
@@ -5064,7 +5016,7 @@ Validated: 1
 EndChar
 
 StartChar: jus_malyj
-Encoding: 1129 1129 108
+Encoding: 1129 1129 107
 Width: 762
 GlyphClass: 2
 Flags: W
@@ -5143,7 +5095,7 @@ Validated: 1
 EndChar
 
 StartChar: Us_bolshoj
-Encoding: 1130 1130 109
+Encoding: 1130 1130 108
 Width: 890
 GlyphClass: 2
 Flags: W
@@ -5207,7 +5159,7 @@ Validated: 1
 EndChar
 
 StartChar: us_bolshoj
-Encoding: 1131 1131 110
+Encoding: 1131 1131 109
 Width: 637
 GlyphClass: 2
 Flags: W
@@ -5263,7 +5215,7 @@ Validated: 1
 EndChar
 
 StartChar: Jus_bolshoj
-Encoding: 1132 1132 111
+Encoding: 1132 1132 110
 Width: 890
 GlyphClass: 2
 Flags: W
@@ -5340,7 +5292,7 @@ Validated: 1
 EndChar
 
 StartChar: jus_bolshoj
-Encoding: 1133 1133 112
+Encoding: 1133 1133 111
 Width: 769
 GlyphClass: 2
 Flags: W
@@ -5416,7 +5368,7 @@ Validated: 1
 EndChar
 
 StartChar: Ksy
-Encoding: 1134 1134 113
+Encoding: 1134 1134 112
 Width: 715
 GlyphClass: 2
 Flags: W
@@ -5524,7 +5476,7 @@ Validated: 1
 EndChar
 
 StartChar: ksy
-Encoding: 1135 1135 114
+Encoding: 1135 1135 113
 Width: 483
 GlyphClass: 2
 Flags: W
@@ -5611,7 +5563,7 @@ Validated: 1
 EndChar
 
 StartChar: Psy
-Encoding: 1136 1136 115
+Encoding: 1136 1136 114
 Width: 905
 GlyphClass: 2
 Flags: W
@@ -5681,7 +5633,7 @@ Validated: 1
 EndChar
 
 StartChar: psy
-Encoding: 1137 1137 116
+Encoding: 1137 1137 115
 Width: 723
 GlyphClass: 2
 Flags: W
@@ -5752,7 +5704,7 @@ Validated: 1
 EndChar
 
 StartChar: Fita
-Encoding: 1138 1138 117
+Encoding: 1138 1138 116
 Width: 878
 GlyphClass: 2
 Flags: W
@@ -5827,7 +5779,7 @@ Validated: 1
 EndChar
 
 StartChar: fita
-Encoding: 1139 1139 118
+Encoding: 1139 1139 117
 Width: 757
 GlyphClass: 2
 Flags: W
@@ -5886,7 +5838,7 @@ Validated: 1
 EndChar
 
 StartChar: Izhitsa
-Encoding: 1140 1140 119
+Encoding: 1140 1140 118
 Width: 694
 GlyphClass: 2
 Flags: W
@@ -5925,7 +5877,7 @@ Validated: 1
 EndChar
 
 StartChar: izhitsa
-Encoding: 1141 1141 120
+Encoding: 1141 1141 119
 Width: 531
 GlyphClass: 2
 Flags: W
@@ -5968,31 +5920,31 @@ Validated: 1
 EndChar
 
 StartChar: Izhitsa_i
-Encoding: 1142 1142 121
+Encoding: 1142 1142 120
 Width: 694
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 266 57568 N 1 0 0 1 685 0 2
-Refer: 119 1140 N 1 0 0 1 0 0 2
+Refer: 265 57568 N 1 0 0 1 685 0 2
+Refer: 118 1140 N 1 0 0 1 0 0 2
 Validated: 1
 EndChar
 
 StartChar: izhitsa_i
-Encoding: 1143 1143 122
+Encoding: 1143 1143 121
 Width: 531
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 120 1141 N 1 0 0 1 0 0 2
+Refer: 119 1141 N 1 0 0 1 0 0 2
 Refer: 31 783 N 1 0 0 1 543 0 2
 Validated: 1
 EndChar
 
 StartChar: Onik
-Encoding: 1144 1144 123
+Encoding: 1144 1144 122
 Width: 1129
 GlyphClass: 2
 Flags: W
@@ -6004,19 +5956,19 @@ Validated: 1
 EndChar
 
 StartChar: onik
-Encoding: 1145 1145 124
+Encoding: 1145 1145 123
 Width: 816
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
 Refer: 84 1091 N 1 0 0 1 241 1 2
-Refer: 239 57363 N 1 0 0 1 0 0 2
+Refer: 238 57363 N 1 0 0 1 0 0 2
 Validated: 1
 EndChar
 
 StartChar: On_shirokij
-Encoding: 1146 1146 125
+Encoding: 1146 1146 124
 Width: 860
 GlyphClass: 2
 Flags: W
@@ -6064,7 +6016,7 @@ Validated: 1
 EndChar
 
 StartChar: on_shirokij
-Encoding: 1147 1147 126
+Encoding: 1147 1147 125
 Width: 802
 GlyphClass: 2
 Flags: W
@@ -6107,57 +6059,57 @@ Validated: 1
 EndChar
 
 StartChar: Omegha_velikaja
-Encoding: 1148 1148 127
+Encoding: 1148 1148 126
 Width: 969
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 276 57578 N 1 0 0 1 0 0 2
-Refer: 275 57577 N 1 0 0 1 971 2 2
-Refer: 194 42572 N 1 0 0 1 0 0 2
+Refer: 275 57578 N 1 0 0 1 0 0 2
+Refer: 274 57577 N 1 0 0 1 971 2 2
+Refer: 193 42572 N 1 0 0 1 0 0 2
 Validated: 1
 EndChar
 
 StartChar: omegha_velikaja
-Encoding: 1149 1149 128
+Encoding: 1149 1149 127
 Width: 896
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 273 57575 N 1 0 0 1 662 -85 2
-Refer: 195 42573 N 1 0 0 1 0 0 2
-Refer: 138 1159 N 1 0 0 1 719 -112 2
+Refer: 272 57575 N 1 0 0 1 662 -85 2
+Refer: 194 42573 N 1 0 0 1 0 0 2
+Refer: 137 1159 N 1 0 0 1 719 -112 2
 Validated: 1
 EndChar
 
 StartChar: Ot
-Encoding: 1150 1150 129
+Encoding: 1150 1150 128
 Width: 1110
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 262 57459 N 1 0 0 1 1112 -2 2
-Refer: 246 57428 N 1 0 0 1 0 0 2
+Refer: 261 57459 N 1 0 0 1 1112 -2 2
+Refer: 245 57428 N 1 0 0 1 0 0 2
 Validated: 1
 EndChar
 
 StartChar: ot
-Encoding: 1151 1151 130
+Encoding: 1151 1151 129
 Width: 799
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 164 11758 N 1 0 0 1 781 0 2
-Refer: 247 57429 N 1 0 0 1 0 0 2
+Refer: 163 11758 N 1 0 0 1 781 0 2
+Refer: 246 57429 N 1 0 0 1 0 0 2
 Validated: 1
 EndChar
 
 StartChar: uni0480
-Encoding: 1152 1152 131
+Encoding: 1152 1152 130
 Width: 654
 GlyphClass: 2
 Flags: W
@@ -6220,7 +6172,7 @@ Validated: 1
 EndChar
 
 StartChar: uni0481
-Encoding: 1153 1153 132
+Encoding: 1153 1153 131
 Width: 491
 GlyphClass: 2
 Flags: W
@@ -6278,7 +6230,7 @@ Validated: 1
 EndChar
 
 StartChar: tysjachja
-Encoding: 1154 1154 133
+Encoding: 1154 1154 132
 Width: 229
 GlyphClass: 2
 Flags: W
@@ -6321,7 +6273,7 @@ Validated: 1
 EndChar
 
 StartChar: titlo
-Encoding: 1155 1155 134
+Encoding: 1155 1155 133
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -6350,7 +6302,7 @@ Validated: 1
 EndChar
 
 StartChar: vozglas
-Encoding: 1156 1156 135
+Encoding: 1156 1156 134
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -6377,7 +6329,7 @@ Validated: 1
 EndChar
 
 StartChar: zvateltso
-Encoding: 1157 1157 136
+Encoding: 1157 1157 135
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -6407,7 +6359,7 @@ Validated: 1
 EndChar
 
 StartChar: umiliteltso
-Encoding: 1158 1158 137
+Encoding: 1158 1158 136
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -6437,7 +6389,7 @@ Validated: 1
 EndChar
 
 StartChar: velij_vozglas
-Encoding: 1159 1159 138
+Encoding: 1159 1159 137
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -6472,25 +6424,25 @@ Validated: 1
 EndChar
 
 StartChar: legion
-Encoding: 1160 1160 139
+Encoding: 1160 1160 138
 Width: 375
 GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
-Refer: 260 57454 N 1 0 0 1 348 -816 2
-Refer: 260 57454 N 1 0 0 1 -365 -818 2
-Refer: 260 57454 N 1 0 0 1 345 -126 2
-Refer: 260 57454 N 1 0 0 1 -361 -126 2
-Refer: 260 57454 N 1 0 0 1 -509 -468 2
-Refer: 260 57454 N 1 0 0 1 499 -478 2
-Refer: 260 57454 N 1 0 0 1 8 -969 2
-Refer: 260 57454 N 1 0 0 1 2 22 2
+Refer: 259 57454 N 1 0 0 1 348 -816 2
+Refer: 259 57454 N 1 0 0 1 -365 -818 2
+Refer: 259 57454 N 1 0 0 1 345 -126 2
+Refer: 259 57454 N 1 0 0 1 -361 -126 2
+Refer: 259 57454 N 1 0 0 1 -509 -468 2
+Refer: 259 57454 N 1 0 0 1 499 -478 2
+Refer: 259 57454 N 1 0 0 1 8 -969 2
+Refer: 259 57454 N 1 0 0 1 2 22 2
 Validated: 1
 EndChar
 
 StartChar: leodr
-Encoding: 1161 1161 140
+Encoding: 1161 1161 139
 Width: 669
 GlyphClass: 4
 Flags: W
@@ -6648,7 +6600,7 @@ Validated: 1
 EndChar
 
 StartChar: endash
-Encoding: 8211 8211 141
+Encoding: 8211 8211 140
 Width: 481
 GlyphClass: 2
 Flags: W
@@ -6675,7 +6627,7 @@ Validated: 1
 EndChar
 
 StartChar: emdash
-Encoding: 8212 8212 142
+Encoding: 8212 8212 141
 Width: 641
 GlyphClass: 2
 Flags: W
@@ -6702,7 +6654,7 @@ Validated: 1
 EndChar
 
 StartChar: quoteleft
-Encoding: 8216 8216 143
+Encoding: 8216 8216 142
 Width: 205
 GlyphClass: 2
 Flags: W
@@ -6731,7 +6683,7 @@ Validated: 1
 EndChar
 
 StartChar: quoteright
-Encoding: 8217 8217 144
+Encoding: 8217 8217 143
 Width: 199
 GlyphClass: 2
 Flags: W
@@ -6761,7 +6713,7 @@ Validated: 1
 EndChar
 
 StartChar: quotesinglbase
-Encoding: 8218 8218 145
+Encoding: 8218 8218 144
 Width: 450
 GlyphClass: 2
 Flags: W
@@ -6790,7 +6742,7 @@ Validated: 1
 EndChar
 
 StartChar: quotedblleft
-Encoding: 8220 8220 146
+Encoding: 8220 8220 145
 Width: 392
 GlyphClass: 2
 Flags: W
@@ -6838,7 +6790,7 @@ Validated: 1
 EndChar
 
 StartChar: quotedblright
-Encoding: 8221 8221 147
+Encoding: 8221 8221 146
 Width: 404
 GlyphClass: 2
 Flags: W
@@ -6884,7 +6836,7 @@ Validated: 1
 EndChar
 
 StartChar: quotedblbase
-Encoding: 8222 8222 148
+Encoding: 8222 8222 147
 Width: 393
 GlyphClass: 2
 Flags: W
@@ -6930,7 +6882,7 @@ Validated: 1
 EndChar
 
 StartChar: tma
-Encoding: 8413 8413 149
+Encoding: 8413 8413 148
 Width: 242
 GlyphClass: 4
 Flags: W
@@ -6964,7 +6916,7 @@ Validated: 1
 EndChar
 
 StartChar: buky_titlo
-Encoding: 11744 11744 150
+Encoding: 11744 11744 149
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -7009,7 +6961,7 @@ Validated: 1
 EndChar
 
 StartChar: vede_titlo
-Encoding: 11745 11745 151
+Encoding: 11745 11745 150
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -7052,7 +7004,7 @@ Validated: 1
 EndChar
 
 StartChar: glagol_titlo
-Encoding: 11746 11746 152
+Encoding: 11746 11746 151
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -7074,7 +7026,7 @@ Validated: 1
 EndChar
 
 StartChar: dobro_titlo
-Encoding: 11747 11747 153
+Encoding: 11747 11747 152
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -7111,7 +7063,7 @@ Validated: 1
 EndChar
 
 StartChar: zhivete_titlo
-Encoding: 11748 11748 154
+Encoding: 11748 11748 153
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -7155,7 +7107,7 @@ Validated: 1
 EndChar
 
 StartChar: zemlja_titlo
-Encoding: 11749 11749 155
+Encoding: 11749 11749 154
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -7211,7 +7163,7 @@ Validated: 1
 EndChar
 
 StartChar: kako_titlo
-Encoding: 11750 11750 156
+Encoding: 11750 11750 155
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -7261,7 +7213,7 @@ Validated: 1
 EndChar
 
 StartChar: ljudi_titlo
-Encoding: 11751 11751 157
+Encoding: 11751 11751 156
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -7292,7 +7244,7 @@ Validated: 1
 EndChar
 
 StartChar: myslete_titlo
-Encoding: 11752 11752 158
+Encoding: 11752 11752 157
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -7343,7 +7295,7 @@ Validated: 1
 EndChar
 
 StartChar: nash_titlo
-Encoding: 11753 11753 159
+Encoding: 11753 11753 158
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -7370,7 +7322,7 @@ Validated: 1
 EndChar
 
 StartChar: on_titlo
-Encoding: 11754 11754 160
+Encoding: 11754 11754 159
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -7402,7 +7354,7 @@ Validated: 1
 EndChar
 
 StartChar: pokoj_titlo
-Encoding: 11755 11755 161
+Encoding: 11755 11755 160
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -7429,7 +7381,7 @@ Validated: 1
 EndChar
 
 StartChar: rtsy_titlo
-Encoding: 11756 11756 162
+Encoding: 11756 11756 161
 Width: 1
 GlyphClass: 4
 Flags: W
@@ -7463,7 +7415,7 @@ Validated: 1
 EndChar
 
 StartChar: slovo_titlo
-Encoding: 11757 11757 163
+Encoding: 11757 11757 162
 Width: 1
 GlyphClass: 4
 Flags: W
@@ -7496,7 +7448,7 @@ Validated: 1
 EndChar
 
 StartChar: tverdo_titlo
-Encoding: 11758 11758 164
+Encoding: 11758 11758 163
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -7528,7 +7480,7 @@ Validated: 1
 EndChar
 
 StartChar: kher_titlo
-Encoding: 11759 11759 165
+Encoding: 11759 11759 164
 Width: 1
 GlyphClass: 4
 Flags: W
@@ -7589,7 +7541,7 @@ Validated: 1
 EndChar
 
 StartChar: tsy_titlo
-Encoding: 11760 11760 166
+Encoding: 11760 11760 165
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -7633,7 +7585,7 @@ Validated: 1
 EndChar
 
 StartChar: cherv_titlo
-Encoding: 11761 11761 167
+Encoding: 11761 11761 166
 Width: 1
 GlyphClass: 4
 Flags: W
@@ -7660,7 +7612,7 @@ Validated: 1
 EndChar
 
 StartChar: sha_titlo
-Encoding: 11762 11762 168
+Encoding: 11762 11762 167
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -7697,7 +7649,7 @@ Validated: 1
 EndChar
 
 StartChar: shcha_titlo
-Encoding: 11763 11763 169
+Encoding: 11763 11763 168
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -7749,7 +7701,7 @@ Validated: 1
 EndChar
 
 StartChar: fita_titlo
-Encoding: 11764 11764 170
+Encoding: 11764 11764 169
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -7803,7 +7755,7 @@ Validated: 1
 EndChar
 
 StartChar: slovo_tverdo_titlo
-Encoding: 11765 11765 171
+Encoding: 11765 11765 170
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -7861,7 +7813,7 @@ Validated: 1
 EndChar
 
 StartChar: az_titlo
-Encoding: 11766 11766 172
+Encoding: 11766 11766 171
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -7901,7 +7853,7 @@ Validated: 1
 EndChar
 
 StartChar: est_titlo
-Encoding: 11767 11767 173
+Encoding: 11767 11767 172
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -7954,7 +7906,7 @@ Validated: 1
 EndChar
 
 StartChar: gherv_titlo
-Encoding: 11768 11768 174
+Encoding: 11768 11768 173
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -8006,7 +7958,7 @@ Validated: 1
 EndChar
 
 StartChar: ukon_titlo
-Encoding: 11769 11769 175
+Encoding: 11769 11769 174
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -8058,7 +8010,7 @@ Validated: 1
 EndChar
 
 StartChar: ed_titlo
-Encoding: 11770 11770 176
+Encoding: 11770 11770 175
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -8112,7 +8064,7 @@ Validated: 1
 EndChar
 
 StartChar: jus_titlo
-Encoding: 11771 11771 177
+Encoding: 11771 11771 176
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -8158,7 +8110,7 @@ Validated: 1
 EndChar
 
 StartChar: jaz_titlo
-Encoding: 11772 11772 178
+Encoding: 11772 11772 177
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -8223,7 +8175,7 @@ Validated: 1
 EndChar
 
 StartChar: us_malyj_titlo
-Encoding: 11773 11773 179
+Encoding: 11773 11773 178
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -8272,7 +8224,7 @@ Validated: 1
 EndChar
 
 StartChar: us_bolshoj_titlo
-Encoding: 11774 11774 180
+Encoding: 11774 11774 179
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -8327,7 +8279,7 @@ Validated: 1
 EndChar
 
 StartChar: jus_bolshoj_titlo
-Encoding: 11775 11775 181
+Encoding: 11775 11775 180
 Width: 762
 GlyphClass: 4
 Flags: W
@@ -8398,7 +8350,7 @@ Validated: 1
 EndChar
 
 StartChar: Zemlja_khvostatyj
-Encoding: 42560 42560 182
+Encoding: 42560 42560 181
 Width: 698
 GlyphClass: 2
 Flags: W
@@ -8449,7 +8401,7 @@ Validated: 1
 EndChar
 
 StartChar: zemlja_khvostatyj
-Encoding: 42561 42561 183
+Encoding: 42561 42561 182
 Width: 483
 GlyphClass: 2
 Flags: W
@@ -8512,7 +8464,7 @@ Validated: 1
 EndChar
 
 StartChar: Dzelo_khvostatyj
-Encoding: 42562 42562 184
+Encoding: 42562 42562 183
 Width: 719
 GlyphClass: 2
 Flags: W
@@ -8582,7 +8534,7 @@ Validated: 1
 EndChar
 
 StartChar: dzelo_khvostatyj
-Encoding: 42563 42563 185
+Encoding: 42563 42563 184
 Width: 480
 GlyphClass: 2
 Flags: W
@@ -8669,7 +8621,7 @@ Validated: 1
 EndChar
 
 StartChar: Dzelo_obratnyj
-Encoding: 42564 42564 186
+Encoding: 42564 42564 185
 Width: 719
 GlyphClass: 2
 Flags: W
@@ -8746,7 +8698,7 @@ Validated: 1
 EndChar
 
 StartChar: dzelo_obratnyj
-Encoding: 42565 42565 187
+Encoding: 42565 42565 186
 Width: 603
 GlyphClass: 2
 Flags: W
@@ -8806,7 +8758,7 @@ Validated: 1
 EndChar
 
 StartChar: Jot
-Encoding: 42566 42566 188
+Encoding: 42566 42566 187
 Width: 521
 GlyphClass: 2
 Flags: W
@@ -8844,7 +8796,7 @@ Validated: 1
 EndChar
 
 StartChar: jot
-Encoding: 42567 42567 189
+Encoding: 42567 42567 188
 Width: 261
 GlyphClass: 2
 Flags: W
@@ -8875,7 +8827,7 @@ Validated: 1
 EndChar
 
 StartChar: Gherv
-Encoding: 42568 42568 190
+Encoding: 42568 42568 189
 Width: 859
 GlyphClass: 2
 Flags: W
@@ -8936,7 +8888,7 @@ Validated: 1
 EndChar
 
 StartChar: gherv
-Encoding: 42569 42569 191
+Encoding: 42569 42569 190
 Width: 680
 GlyphClass: 2
 Flags: W
@@ -8993,7 +8945,7 @@ Validated: 1
 EndChar
 
 StartChar: Ukon
-Encoding: 42570 42570 192
+Encoding: 42570 42570 191
 Width: 728
 GlyphClass: 2
 Flags: W
@@ -9074,7 +9026,7 @@ Validated: 1
 EndChar
 
 StartChar: ukon
-Encoding: 42571 42571 193
+Encoding: 42571 42571 192
 Width: 467
 GlyphClass: 2
 Flags: W
@@ -9133,7 +9085,7 @@ Validated: 1
 EndChar
 
 StartChar: Omegha_shirokaja
-Encoding: 42572 42572 194
+Encoding: 42572 42572 193
 Width: 969
 GlyphClass: 2
 Flags: W
@@ -9203,7 +9155,7 @@ Validated: 1
 EndChar
 
 StartChar: omegha_shirokaja
-Encoding: 42573 42573 195
+Encoding: 42573 42573 194
 Width: 896
 GlyphClass: 2
 Flags: W
@@ -9263,7 +9215,7 @@ Validated: 1
 EndChar
 
 StartChar: Eri
-Encoding: 42574 42574 196
+Encoding: 42574 42574 195
 Width: 698
 GlyphClass: 2
 Flags: W
@@ -9311,7 +9263,7 @@ Validated: 1
 EndChar
 
 StartChar: eri
-Encoding: 42575 42575 197
+Encoding: 42575 42575 196
 Width: 479
 GlyphClass: 2
 Flags: W
@@ -9362,31 +9314,31 @@ Validated: 1
 EndChar
 
 StartChar: Ery_er
-Encoding: 42576 42576 198
+Encoding: 42576 42576 197
 Width: 974
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 236 57356 N 1 0 0 1 630 2 2
+Refer: 235 57356 N 1 0 0 1 630 2 2
 Refer: 61 1066 N 1 0 0 1 0 0 2
 Validated: 1
 EndChar
 
 StartChar: ery_er
-Encoding: 42577 42577 199
+Encoding: 42577 42577 198
 Width: 683
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 237 57357 N 1 0 0 1 442 2 2
+Refer: 236 57357 N 1 0 0 1 442 2 2
 Refer: 91 1098 N 1 0 0 1 -5 0 2
 Validated: 1
 EndChar
 
 StartChar: Jed
-Encoding: 42578 42578 200
+Encoding: 42578 42578 199
 Width: 891
 GlyphClass: 2
 Flags: W
@@ -9448,7 +9400,7 @@ Validated: 1
 EndChar
 
 StartChar: jed
-Encoding: 42579 42579 201
+Encoding: 42579 42579 200
 Width: 672
 GlyphClass: 2
 Flags: W
@@ -9511,7 +9463,7 @@ Validated: 1
 EndChar
 
 StartChar: Jus_obratnyj
-Encoding: 42580 42580 202
+Encoding: 42580 42580 201
 Width: 873
 GlyphClass: 2
 Flags: W
@@ -9574,7 +9526,7 @@ Validated: 1
 EndChar
 
 StartChar: jus_obratnyj
-Encoding: 42581 42581 203
+Encoding: 42581 42581 202
 Width: 564
 GlyphClass: 2
 Flags: W
@@ -9625,29 +9577,29 @@ Validated: 1
 EndChar
 
 StartChar: Jaz
-Encoding: 42582 42582 204
+Encoding: 42582 42582 203
 Width: 964
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 244 57406 N 1 0 0 1 0 0 2
+Refer: 243 57406 N 1 0 0 1 0 0 2
 Validated: 1
 EndChar
 
 StartChar: jaz
-Encoding: 42583 42583 205
+Encoding: 42583 42583 204
 Width: 636
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 245 57407 N 1 0 0 1 0 0 2
+Refer: 244 57407 N 1 0 0 1 0 0 2
 Validated: 1
 EndChar
 
 StartChar: Az_podkrytyj
-Encoding: 42584 42584 206
+Encoding: 42584 42584 205
 Width: 581
 GlyphClass: 2
 Flags: W
@@ -9722,7 +9674,7 @@ Validated: 1
 EndChar
 
 StartChar: az_podkrytyj
-Encoding: 42585 42585 207
+Encoding: 42585 42585 206
 Width: 405
 GlyphClass: 2
 Flags: W
@@ -9771,7 +9723,7 @@ Validated: 1
 EndChar
 
 StartChar: Us_srednij
-Encoding: 42586 42586 208
+Encoding: 42586 42586 207
 Width: 890
 GlyphClass: 2
 Flags: W
@@ -9844,7 +9796,7 @@ Validated: 1
 EndChar
 
 StartChar: us_srednij
-Encoding: 42587 42587 209
+Encoding: 42587 42587 208
 Width: 637
 GlyphClass: 2
 Flags: W
@@ -9907,7 +9859,7 @@ Validated: 1
 EndChar
 
 StartChar: Jaz_podkrytyj
-Encoding: 42588 42588 210
+Encoding: 42588 42588 209
 Width: 968
 GlyphClass: 2
 Flags: W
@@ -9990,7 +9942,7 @@ Validated: 1
 EndChar
 
 StartChar: jaz_podkrytyj
-Encoding: 42589 42589 211
+Encoding: 42589 42589 210
 Width: 668
 GlyphClass: 2
 Flags: W
@@ -10064,7 +10016,7 @@ Validated: 1
 EndChar
 
 StartChar: Yn
-Encoding: 42590 42590 212
+Encoding: 42590 42590 211
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -10114,7 +10066,7 @@ Validated: 1
 EndChar
 
 StartChar: yn
-Encoding: 42591 42591 213
+Encoding: 42591 42591 212
 Width: 536
 GlyphClass: 2
 Flags: W
@@ -10163,7 +10115,7 @@ Validated: 1
 EndChar
 
 StartChar: Dobro_mjagkij
-Encoding: 42594 42594 214
+Encoding: 42594 42594 213
 Width: 775
 GlyphClass: 2
 Flags: W
@@ -10234,7 +10186,7 @@ Validated: 1
 EndChar
 
 StartChar: dobro_mjagkij
-Encoding: 42595 42595 215
+Encoding: 42595 42595 214
 Width: 486
 GlyphClass: 2
 Flags: W
@@ -10300,7 +10252,7 @@ Validated: 1
 EndChar
 
 StartChar: Ljudi_mjagkij
-Encoding: 42596 42596 216
+Encoding: 42596 42596 215
 Width: 791
 GlyphClass: 2
 Flags: W
@@ -10351,7 +10303,7 @@ Validated: 1
 EndChar
 
 StartChar: ljudi_mjagkij
-Encoding: 42597 42597 217
+Encoding: 42597 42597 216
 Width: 531
 GlyphClass: 2
 Flags: W
@@ -10398,7 +10350,7 @@ Validated: 1
 EndChar
 
 StartChar: Myslete_mjagkij
-Encoding: 42598 42598 218
+Encoding: 42598 42598 217
 Width: 1046
 GlyphClass: 2
 Flags: W
@@ -10465,7 +10417,7 @@ Validated: 1
 EndChar
 
 StartChar: myslete_mjagkij
-Encoding: 42599 42599 219
+Encoding: 42599 42599 218
 Width: 790
 GlyphClass: 2
 Flags: W
@@ -10537,7 +10489,7 @@ Validated: 1
 EndChar
 
 StartChar: On_edinokij
-Encoding: 42600 42600 220
+Encoding: 42600 42600 219
 Width: 628
 GlyphClass: 2
 Flags: W
@@ -10549,7 +10501,7 @@ Validated: 1
 EndChar
 
 StartChar: on_edinokij
-Encoding: 42601 42601 221
+Encoding: 42601 42601 220
 Width: 491
 GlyphClass: 2
 Flags: W
@@ -10561,7 +10513,7 @@ Validated: 1
 EndChar
 
 StartChar: On_dvuokij
-Encoding: 42602 42602 222
+Encoding: 42602 42602 221
 Width: 860
 GlyphClass: 2
 Flags: W
@@ -10569,12 +10521,12 @@ LayerCount: 2
 Fore
 Refer: 12 46 N 1 0 0 1 426 338 2
 Refer: 12 46 N 1 0 0 1 216 338 2
-Refer: 125 1146 N 1 0 0 1 0 0 2
+Refer: 124 1146 N 1 0 0 1 0 0 2
 Validated: 1
 EndChar
 
 StartChar: on_dvuokij
-Encoding: 42603 42603 223
+Encoding: 42603 42603 222
 Width: 802
 GlyphClass: 2
 Flags: W
@@ -10582,12 +10534,12 @@ LayerCount: 2
 Fore
 Refer: 12 46 N 1 0 0 1 390 178 2
 Refer: 12 46 N 1 0 0 1 188 176 2
-Refer: 126 1147 N 1 0 0 1 0 0 2
+Refer: 125 1147 N 1 0 0 1 0 0 2
 Validated: 1
 EndChar
 
 StartChar: On_edinokij_dvojnoj
-Encoding: 42604 42604 224
+Encoding: 42604 42604 223
 Width: 1005
 GlyphClass: 2
 Flags: W
@@ -10688,7 +10640,7 @@ Validated: 1
 EndChar
 
 StartChar: on_edinokij_dvojnoj
-Encoding: 42605 42605 225
+Encoding: 42605 42605 224
 Width: 806
 GlyphClass: 2
 Flags: W
@@ -10762,25 +10714,25 @@ Validated: 1
 EndChar
 
 StartChar: on_edinokij_mnozhij
-Encoding: 42606 42606 226
+Encoding: 42606 42606 225
 Width: 865
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 248 57433 N 1 0 0 1 456 -28 2
-Refer: 248 57433 N 1 0 0 1 220 -28 2
-Refer: 248 57433 N 1 0 0 1 214 422 2
-Refer: 248 57433 N 1 0 0 1 454 420 2
-Refer: 248 57433 N 1 0 0 1 102 194 2
-Refer: 248 57433 N 1 0 0 1 340 196 2
-Refer: 248 57433 N 1 0 0 1 579 196 2
-Refer: 249 57434 N 1 0 0 1 0 0 2
+Refer: 247 57433 N 1 0 0 1 456 -28 2
+Refer: 247 57433 N 1 0 0 1 220 -28 2
+Refer: 247 57433 N 1 0 0 1 214 422 2
+Refer: 247 57433 N 1 0 0 1 454 420 2
+Refer: 247 57433 N 1 0 0 1 102 194 2
+Refer: 247 57433 N 1 0 0 1 340 196 2
+Refer: 247 57433 N 1 0 0 1 579 196 2
+Refer: 248 57434 N 1 0 0 1 0 0 2
 Validated: 1
 EndChar
 
 StartChar: pokrytie_titlo
-Encoding: 42607 42607 227
+Encoding: 42607 42607 226
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -10812,25 +10764,25 @@ Validated: 1
 EndChar
 
 StartChar: vran
-Encoding: 42608 42608 228
+Encoding: 42608 42608 227
 Width: 345
 GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
-Refer: 277 57584 N 1 0 0 1 -718 416 2
-Refer: 277 57584 N 1 0 0 1 -866 74 2
-Refer: 277 57584 N 1 0 0 1 -722 -278 2
-Refer: 277 57584 N 1 0 0 1 -350 -430 2
-Refer: 277 57584 N 1 0 0 1 -12 -272 2
-Refer: 277 57584 N 1 0 0 1 144 66 2
-Refer: 277 57584 N 1 0 0 1 -14 416 2
-Refer: 277 57584 N 1 0 0 1 -356 564 2
+Refer: 276 57584 N 1 0 0 1 -718 416 2
+Refer: 276 57584 N 1 0 0 1 -866 74 2
+Refer: 276 57584 N 1 0 0 1 -722 -278 2
+Refer: 276 57584 N 1 0 0 1 -350 -430 2
+Refer: 276 57584 N 1 0 0 1 -12 -272 2
+Refer: 276 57584 N 1 0 0 1 144 66 2
+Refer: 276 57584 N 1 0 0 1 -14 416 2
+Refer: 276 57584 N 1 0 0 1 -356 564 2
 Validated: 1
 EndChar
 
 StartChar: koloda
-Encoding: 42609 42609 229
+Encoding: 42609 42609 228
 Width: 174
 GlyphClass: 4
 Flags: W
@@ -10860,21 +10812,21 @@ Validated: 1
 EndChar
 
 StartChar: tmatem
-Encoding: 42610 42610 230
+Encoding: 42610 42610 229
 Width: 336
 GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
-Refer: 279 57587 N 1 0 0 1 -433 433 2
-Refer: 278 57586 N -6.10352e-05 -1 1 -6.10352e-05 -521 -39 2
-Refer: 278 57586 N 1 0 0 1 -10 -24 2
-Refer: 278 57586 N 1 0 0 1 -836 -23 2
+Refer: 278 57587 N 1 0 0 1 -433 433 2
+Refer: 277 57586 N -6.10352e-05 -1 1 -6.10352e-05 -521 -39 2
+Refer: 277 57586 N 1 0 0 1 -10 -24 2
+Refer: 277 57586 N 1 0 0 1 -836 -23 2
 Validated: 1
 EndChar
 
 StartChar: dzvezdochka
-Encoding: 42611 42611 231
+Encoding: 42611 42611 230
 Width: 396
 GlyphClass: 2
 Flags: W
@@ -10920,29 +10872,29 @@ Validated: 1
 EndChar
 
 StartChar: volniteltso_titlo
-Encoding: 42620 42620 232
+Encoding: 42620 42620 231
 Width: 0
 GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
-Refer: 234 42622 N 1 0 0 1 -414 0 2
+Refer: 233 42622 N 1 0 0 1 -414 0 2
 Validated: 1
 EndChar
 
 StartChar: pajerok_titlo
-Encoding: 42621 42621 233
+Encoding: 42621 42621 232
 Width: 1
 GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
-Refer: 235 42623 N 1 0 0 1 -342 -2 2
+Refer: 234 42623 N 1 0 0 1 -342 -2 2
 Validated: 1
 EndChar
 
 StartChar: volniteltso
-Encoding: 42622 42622 234
+Encoding: 42622 42622 233
 Width: 342
 GlyphClass: 2
 Flags: W
@@ -10969,7 +10921,7 @@ Validated: 1
 EndChar
 
 StartChar: pajerok
-Encoding: 42623 42623 235
+Encoding: 42623 42623 234
 Width: 259
 GlyphClass: 2
 Flags: W
@@ -11000,7 +10952,7 @@ Validated: 1
 EndChar
 
 StartChar: Joti
-Encoding: 57356 57356 236
+Encoding: 57356 57356 235
 Width: 352
 GlyphClass: 2
 Flags: W
@@ -11025,7 +10977,7 @@ Validated: 1
 EndChar
 
 StartChar: joti
-Encoding: 57357 57357 237
+Encoding: 57357 57357 236
 Width: 261
 GlyphClass: 2
 Flags: W
@@ -11050,7 +11002,7 @@ Validated: 1
 EndChar
 
 StartChar: On_uzkij
-Encoding: 57362 57362 238
+Encoding: 57362 57362 237
 Width: 516
 GlyphClass: 2
 Flags: W
@@ -11103,7 +11055,7 @@ Validated: 1
 EndChar
 
 StartChar: on_uzkij
-Encoding: 57363 57363 239
+Encoding: 57363 57363 238
 Width: 289
 GlyphClass: 2
 Flags: W
@@ -11137,31 +11089,31 @@ Validated: 1
 EndChar
 
 StartChar: Onizh
-Encoding: 57372 57372 240
+Encoding: 57372 57372 239
 Width: 651
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 120 1141 N 0.617004 0 0 0.63092 185 822 2
+Refer: 119 1141 N 0.617004 0 0 0.63092 185 822 2
 Refer: 50 1054 N 1 0 0 1 0 0 2
 Validated: 1
 EndChar
 
 StartChar: onizh
-Encoding: 57373 57373 241
+Encoding: 57373 57373 240
 Width: 493
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
 Refer: 79 1086 N 1 0 0 1 0 0 2
-Refer: 120 1141 N 0.617004 0 0 0.63092 103 477 2
+Refer: 119 1141 N 0.617004 0 0 0.63092 103 477 2
 Validated: 1
 EndChar
 
 StartChar: Shta
-Encoding: 57378 57378 242
+Encoding: 57378 57378 241
 Width: 993
 GlyphClass: 2
 Flags: W
@@ -11219,7 +11171,7 @@ Validated: 1
 EndChar
 
 StartChar: shta
-Encoding: 57379 57379 243
+Encoding: 57379 57379 242
 Width: 825
 GlyphClass: 2
 Flags: W
@@ -11273,7 +11225,7 @@ Validated: 1
 EndChar
 
 StartChar: Jaz_obychnyj
-Encoding: 57406 57406 244
+Encoding: 57406 57406 243
 Width: 964
 GlyphClass: 2
 Flags: W
@@ -11359,7 +11311,7 @@ Validated: 1
 EndChar
 
 StartChar: jaz_obychnyj
-Encoding: 57407 57407 245
+Encoding: 57407 57407 244
 Width: 636
 GlyphClass: 2
 Flags: W
@@ -11424,7 +11376,7 @@ Validated: 1
 EndChar
 
 StartChar: Omegha_lepotnaja
-Encoding: 57428 57428 246
+Encoding: 57428 57428 245
 Width: 1110
 GlyphClass: 2
 Flags: W
@@ -11505,7 +11457,7 @@ Validated: 1
 EndChar
 
 StartChar: omegha_lepotnaja
-Encoding: 57429 57429 247
+Encoding: 57429 57429 246
 Width: 799
 GlyphClass: 2
 Flags: W
@@ -11555,7 +11507,7 @@ Validated: 1
 EndChar
 
 StartChar: oko
-Encoding: 57433 57433 248
+Encoding: 57433 57433 247
 Width: 169
 GlyphClass: 2
 Flags: W
@@ -11576,7 +11528,7 @@ Validated: 1
 EndChar
 
 StartChar: on_mnogij
-Encoding: 57434 57434 249
+Encoding: 57434 57434 248
 Width: 865
 GlyphClass: 2
 Flags: W
@@ -11685,7 +11637,7 @@ Validated: 1
 EndChar
 
 StartChar: ere_naklonnyj
-Encoding: 57435 57435 250
+Encoding: 57435 57435 249
 Width: 683
 GlyphClass: 2
 Flags: W
@@ -11715,7 +11667,7 @@ Validated: 1
 EndChar
 
 StartChar: Joti_prostoj
-Encoding: 57436 57436 251
+Encoding: 57436 57436 250
 Width: 317
 GlyphClass: 2
 Flags: W
@@ -11740,7 +11692,7 @@ Validated: 1
 EndChar
 
 StartChar: joti_prostoj
-Encoding: 57437 57437 252
+Encoding: 57437 57437 251
 Width: 238
 GlyphClass: 2
 Flags: W
@@ -11762,7 +11714,7 @@ Validated: 1
 EndChar
 
 StartChar: Jaz_prostoj
-Encoding: 57438 57438 253
+Encoding: 57438 57438 252
 Width: 980
 GlyphClass: 2
 Flags: W
@@ -11837,7 +11789,7 @@ Validated: 1
 EndChar
 
 StartChar: jaz_prostoj
-Encoding: 57439 57439 254
+Encoding: 57439 57439 253
 Width: 648
 GlyphClass: 2
 Flags: W
@@ -11900,55 +11852,55 @@ Validated: 1
 EndChar
 
 StartChar: verkhneje_zvateltso
-Encoding: 57440 57440 255
+Encoding: 57440 57440 254
 Width: 0
 GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
-Refer: 273 57575 N 1 0 0 1 -18 0 2
+Refer: 272 57575 N 1 0 0 1 -18 0 2
 Refer: 33 833 N 1 0 0 1 -8 -10 2
 Validated: 1
 EndChar
 
 StartChar: nizhneje_zvateltso
-Encoding: 57441 57441 256
+Encoding: 57441 57441 255
 Width: 0
 GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
-Refer: 268 57570 N 1 0 0 1 0 0 2
-Refer: 137 1158 N 1 0 0 1 -48 2 2
+Refer: 267 57570 N 1 0 0 1 0 0 2
+Refer: 136 1158 N 1 0 0 1 -48 2 2
 Validated: 1
 EndChar
 
 StartChar: Verkhneje_zvateltso
-Encoding: 57443 57443 257
+Encoding: 57443 57443 256
 Width: 0
 GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
-Refer: 270 57572 N 1 0 0 1 0 0 2
-Refer: 271 57573 N 1 0 0 1 0 0 2
+Refer: 269 57572 N 1 0 0 1 0 0 2
+Refer: 270 57573 N 1 0 0 1 0 0 2
 Validated: 1
 EndChar
 
 StartChar: Nizhneje_zvateltso
-Encoding: 57444 57444 258
+Encoding: 57444 57444 257
 Width: 0
 GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
-Refer: 269 57571 N 1 0 0 1 0 0 2
-Refer: 272 57574 N 1 0 0 1 0 0 2
+Refer: 268 57571 N 1 0 0 1 0 0 2
+Refer: 271 57574 N 1 0 0 1 0 0 2
 Validated: 1
 EndChar
 
 StartChar: Umiliteltso1
-Encoding: 57446 57446 259
+Encoding: 57446 57446 258
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -11978,7 +11930,7 @@ Validated: 1
 EndChar
 
 StartChar: legion_osmukha
-Encoding: 57454 57454 260
+Encoding: 57454 57454 259
 Width: 0
 GlyphClass: 1
 Flags: W
@@ -12005,7 +11957,7 @@ Validated: 1
 EndChar
 
 StartChar: Vozglas
-Encoding: 57455 57455 261
+Encoding: 57455 57455 260
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -12029,7 +11981,7 @@ Validated: 1
 EndChar
 
 StartChar: tverdo_titlo_vysokij
-Encoding: 57459 57459 262
+Encoding: 57459 57459 261
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -12065,7 +12017,7 @@ Validated: 1
 EndChar
 
 StartChar: fert_titlo
-Encoding: 57461 57461 263
+Encoding: 57461 57461 262
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -12131,7 +12083,7 @@ Validated: 1
 EndChar
 
 StartChar: ery_titlo
-Encoding: 57463 57463 264
+Encoding: 57463 57463 263
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -12166,7 +12118,7 @@ Validated: 1
 EndChar
 
 StartChar: ere_titlo
-Encoding: 57464 57464 265
+Encoding: 57464 57464 264
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -12196,7 +12148,7 @@ Validated: 1
 EndChar
 
 StartChar: Dvojnaja_chazhes
-Encoding: 57568 57568 266
+Encoding: 57568 57568 265
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -12226,7 +12178,7 @@ Validated: 1
 EndChar
 
 StartChar: Dvojnoje_ostretso
-Encoding: 57569 57569 267
+Encoding: 57569 57569 266
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -12256,7 +12208,7 @@ Validated: 1
 EndChar
 
 StartChar: Chast_zvateltsa
-Encoding: 57570 57570 268
+Encoding: 57570 57570 267
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -12274,7 +12226,7 @@ Validated: 1
 EndChar
 
 StartChar: Chazhes
-Encoding: 57571 57571 269
+Encoding: 57571 57571 268
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -12295,7 +12247,7 @@ Validated: 1
 EndChar
 
 StartChar: Ostretso
-Encoding: 57572 57572 270
+Encoding: 57572 57572 269
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -12316,7 +12268,7 @@ Validated: 1
 EndChar
 
 StartChar: vysokoje_umiliteltso
-Encoding: 57573 57573 271
+Encoding: 57573 57573 270
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -12346,7 +12298,7 @@ Validated: 1
 EndChar
 
 StartChar: Umiliteltso
-Encoding: 57574 57574 272
+Encoding: 57574 57574 271
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -12378,7 +12330,7 @@ Validated: 1
 EndChar
 
 StartChar: umiliteltso1
-Encoding: 57575 57575 273
+Encoding: 57575 57575 272
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -12407,7 +12359,7 @@ Validated: 1
 EndChar
 
 StartChar: Krattso
-Encoding: 57576 57576 274
+Encoding: 57576 57576 273
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -12431,7 +12383,7 @@ Validated: 1
 EndChar
 
 StartChar: Velij_legion_osmukha
-Encoding: 57577 57577 275
+Encoding: 57577 57577 274
 Width: 969
 GlyphClass: 4
 Flags: W
@@ -12465,7 +12417,7 @@ Validated: 1
 EndChar
 
 StartChar: zvateltso_vysokaja1
-Encoding: 57578 57578 276
+Encoding: 57578 57578 275
 Width: 969
 GlyphClass: 4
 Flags: W
@@ -12492,7 +12444,7 @@ Validated: 1
 EndChar
 
 StartChar: vran_osmukha
-Encoding: 57584 57584 277
+Encoding: 57584 57584 276
 Width: 204
 GlyphClass: 1
 Flags: W
@@ -12517,7 +12469,7 @@ Validated: 1
 EndChar
 
 StartChar: tmatem_tretjushka
-Encoding: 57586 57586 278
+Encoding: 57586 57586 277
 Width: 342
 GlyphClass: 1
 Flags: W
@@ -12544,7 +12496,7 @@ Validated: 1
 EndChar
 
 StartChar: tmetem_glavok
-Encoding: 57587 57587 279
+Encoding: 57587 57587 278
 Width: 342
 GlyphClass: 1
 Flags: W

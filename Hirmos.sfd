@@ -13,13 +13,14 @@ Descent: 205
 LayerCount: 2
 Layer: 0 1 "+BBcEMAQ0BD0EOAQ5 +BD8EOwQwBD0A"  1
 Layer: 1 1 "+BB8ENQRABDUENAQ9BDgEOQAA +BD8EOwQwBD0A"  0
+NeedsXUIDChange: 1
 XUID: [1021 535 545739686 6183264]
 FSType: 0
 OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1249988326
-ModificationTime: 1278933697
+ModificationTime: 1279048149
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -571,7 +572,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 144 16 9
+WinInfo: 0 16 9
 AnchorClass2: "+BBEENQQ3BEsEPARPBD0EPQQ+BDUA--0"  "+BCEEQwQxBEIEMAQxBDsEOARGBDAA Mark to base attachment +BEEEPwRABDAEMgQ6BDAA 0" "+BBEENQQ3BEsEPARPBD0EPQQ+BDUA--1"  "+BCEEQwQxBEIEMAQxBDsEOARGBDAA Mark to base attachment +BEEEPwRABDAEMgQ6BDAA 0" "+BBEENQQ3BEsEPARPBD0EPQQ+BDUA--2"  "+BCEEQwQxBEIEMAQxBDsEOARGBDAA Mark to Mark attachment +BEEEPwRABDAEMgQ6BDAA 1" 
 BeginChars: 65539 280
 
@@ -899,20 +900,20 @@ StartChar: hyphen
 Encoding: 45 45 11
 Width: 306
 GlyphClass: 2
-Flags: W
+Flags: HWO
 LayerCount: 2
 Fore
 SplineSet
-251 306 m 1,0,1
- 271 297 271 297 271 269 c 1,2,-1
- 267 261 l 1,3,4
- 82 190 82 190 69 190 c 1,5,-1
- 59 189 l 2,6,7
- 53 189 53 189 44 202 c 128,-1,8
- 35 215 35 215 35 224.5 c 128,-1,9
- 35 234 35 234 42 237 c 2,10,-1
- 235 305 l 1,11,-1
- 251 306 l 1,0,1
+251 289 m 5,0,1
+ 271 280 271 280 271 252 c 5,2,-1
+ 267 244 l 5,3,4
+ 82 173 82 173 69 173 c 5,5,-1
+ 59 172 l 6,6,7
+ 53 172 53 172 44 185 c 132,-1,8
+ 35 198 35 198 35 207.5 c 132,-1,9
+ 35 217 35 217 42 220 c 6,10,-1
+ 235 288 l 5,11,-1
+ 251 289 l 5,0,1
 EndSplineSet
 EndChar
 

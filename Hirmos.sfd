@@ -20,7 +20,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1249988326
-ModificationTime: 1280130854
+ModificationTime: 1280132387
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -565,17 +565,17 @@ MATH:RadicalKernBeforeDegree: 284
 MATH:RadicalKernAfterDegree: -582 
 MATH:RadicalDegreeBottomRaisePercent: 61
 MATH:MinConnectorOverlap: 20
-Encoding: UnicodeBmp
+Encoding: Custom
 Compacted: 1
 UnicodeInterp: none
 NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 144 16 9
+WinInfo: 0 16 9
 TeXData: 1 0 0 184320 92160 61440 457728 1048576 61440 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "vozglastitlo"  "+BCEEQwQxBEIEMAQxBDsEOARGBDAA Mark to base attachment +BEEEPwRABDAEMgQ6BDAA 0" "chislotitlo"  "+BCEEQwQxBEIEMAQxBDsEOARGBDAA Mark to base attachment +BEEEPwRABDAEMgQ6BDAA 0" "dykhotitlo"  "+BCEEQwQxBEIEMAQxBDsEOARGBDAA Mark to base attachment +BEEEPwRABDAEMgQ6BDAA 0" "titlo"  "+BCEEQwQxBEIEMAQxBDsEOARGBDAA Mark to base attachment +BEEEPwRABDAEMgQ6BDAA 0" "tjazhkotitlo"  "+BCEEQwQxBEIEMAQxBDsEOARGBDAA Mark to base attachment +BEEEPwRABDAEMgQ6BDAA 0" "ostrotitlo"  "+BCEEQwQxBEIEMAQxBDsEOARGBDAA Mark to base attachment +BEEEPwRABDAEMgQ6BDAA 0" "bukvotitlo"  "+BCEEQwQxBEIEMAQxBDsEOARGBDAA Mark to Mark attachment +BEEEPwRABDAEMgQ6BDAA 1" 
-BeginChars: 65539 280
+BeginChars: 65539 282
 
 StartChar: .notdef
 Encoding: 65536 -1 0
@@ -1570,7 +1570,7 @@ SplineSet
  507 751 507 751 510 756 c 2,91,-1
  514 766 l 2,0,1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: Izhe_i
@@ -1586,7 +1586,7 @@ AnchorPoint: "vozglastitlo" 162 864 basechar 0
 LayerCount: 2
 Fore
 Refer: 250 57436 N 1 0 0 1 0 0 2
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: Az
@@ -1669,7 +1669,7 @@ SplineSet
  280 493 280 493 248 467 c 0,84,85
  177 409 177 409 177 379 c 0,73,74
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: Buky
@@ -1715,7 +1715,7 @@ SplineSet
  423 378 l 1,39,-1
  321 431 l 1,33,-1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: Vede
@@ -1772,7 +1772,7 @@ SplineSet
  241 432 l 1,54,-1
  330 597 l 2,37,38
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: Glagol
@@ -1805,7 +1805,7 @@ SplineSet
  427 719 427 719 427 641 c 1,21,-1
  429 613 l 2,0,1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: Dobro
@@ -1869,7 +1869,7 @@ SplineSet
  214 165 214 165 214 110.5 c 128,-1,64
  214 56 214 56 230 25 c 1,55,-1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: Est
@@ -1955,7 +1955,7 @@ SplineSet
  629 640 629 640 621 640 c 2,101,-1
  390 626 l 2,0,1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: Zhivete
@@ -2040,7 +2040,7 @@ SplineSet
  607 530 607 530 639 623 c 0,95,96
  683 751 683 751 756 788 c 1,0,1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: Zemlja
@@ -2109,7 +2109,7 @@ SplineSet
  28 96 28 96 57 123 c 1,82,83
  76 139 76 139 105 139 c 2,0,-1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: Izhe
@@ -2155,7 +2155,7 @@ SplineSet
  302 0 l 1,27,-1
  56 0 l 1,0,-1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: Izhe_kratkij
@@ -2168,7 +2168,7 @@ LayerCount: 2
 Fore
 Refer: 273 57576 N 1 0 0 1 684 4 2
 Refer: 44 1048 N 1 0 0 1 0 0 2
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: Kako
@@ -2220,7 +2220,7 @@ SplineSet
  408 25 l 1,47,-1
  465 25 l 1,0,1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: Ljudi
@@ -2263,7 +2263,7 @@ SplineSet
  322 354 322 354 301 314 c 2,35,-1
  266 246 l 1,0,1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: Myslete
@@ -2323,7 +2323,7 @@ SplineSet
  41 25 l 1,52,-1
  98 25 l 1,0,1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: Nash
@@ -2365,7 +2365,7 @@ SplineSet
  302 0 l 1,27,-1
  56 0 l 1,0,-1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: On
@@ -2419,7 +2419,7 @@ SplineSet
  324 23 324 23 386 75 c 1,51,52
  439 151 439 151 439 322 c 0,31,32
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: Pokoj
@@ -2453,7 +2453,7 @@ SplineSet
  241 764 l 1,19,-1
  241 25 l 1,0,-1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: Rtsy
@@ -2496,7 +2496,7 @@ SplineSet
  341 517 341 517 344 517 c 128,-1,36
  347 517 347 517 349 515 c 1,17,-1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: Slovo
@@ -2554,7 +2554,7 @@ SplineSet
  597 344 l 2,64,0
  607 344 607 344 607 331 c 128,-1,1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: Tverdo
@@ -2596,7 +2596,7 @@ SplineSet
  26 788 26 788 33 788 c 2,36,-1
  698 788 l 2,0,1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: Fert
@@ -2657,7 +2657,7 @@ SplineSet
  187 391 187 391 187 299.5 c 128,-1,58
  187 208 187 208 242 174 c 0,49,50
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: Kher
@@ -2720,7 +2720,7 @@ SplineSet
  640 668 640 668 648 643 c 128,-1,60
  656 618 656 618 656 616 c 0,0,1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: Tsy
@@ -2771,7 +2771,7 @@ SplineSet
  539 0 l 1,45,-1
  56 0 l 1,0,-1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: Cherv
@@ -2812,7 +2812,7 @@ SplineSet
  241 764 l 1,31,-1
  241 416 l 1,0,1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: Sha
@@ -2854,7 +2854,7 @@ SplineSet
  56 0 l 1,27,-1
  56 25 l 1,0,-1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: Shcha
@@ -2866,7 +2866,7 @@ AnchorPoint: "titlo" 496 864 basechar 0
 LayerCount: 2
 Fore
 Refer: 241 57378 N 1 0 0 1 0 0 2
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: Er
@@ -2913,7 +2913,7 @@ SplineSet
  375 377 l 1,32,-1
  371 377 l 1,29,-1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: Ery
@@ -2969,7 +2969,7 @@ SplineSet
  392 348 l 1,40,-1
  290 401 l 1,34,-1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: Ere
@@ -3012,7 +3012,7 @@ SplineSet
  392 348 l 1,28,-1
  290 401 l 1,22,-1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: Jus
@@ -3081,7 +3081,7 @@ SplineSet
  534 217 534 217 534 144.5 c 128,-1,65
  534 72 534 72 519 18 c 1,43,44
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: az
@@ -3178,7 +3178,7 @@ SplineSet
  184 170 184 170 173 168 c 1,45,46
  171 115 171 115 171 70 c 2,35,-1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: vede
@@ -3219,7 +3219,7 @@ SplineSet
  330 422 l 1,30,-1
  176 422 l 1,28,-1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: glagol
@@ -3252,7 +3252,7 @@ SplineSet
  175 338 175 338 174.5 263.5 c 128,-1,0
  174 189 174 189 174 137 c 128,-1,1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: dobro
@@ -3307,7 +3307,7 @@ SplineSet
  143 103 143 103 122 25 c 1,55,-1
  256 25 l 1,49,50
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: est
@@ -3354,7 +3354,7 @@ SplineSet
  218 80 218 80 261 123 c 0,41,42
  263 125 263 125 265 125 c 0,0,1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: zhivete
@@ -3433,7 +3433,7 @@ SplineSet
  683 445 l 2,97,98
  692 445 692 445 703 447 c 1,0,1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: zemlja
@@ -3516,7 +3516,7 @@ SplineSet
  39 -228 39 -228 34 -228 c 0,97,98
  18 -228 18 -228 18 -194 c 2,0,1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: izhe
@@ -3568,7 +3568,7 @@ LayerCount: 2
 Fore
 Refer: 73 1080 N 1 0 0 1 -5 0 2
 Refer: 27 774 N 1 0 0 1 485 0 2
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: kako
@@ -3626,7 +3626,7 @@ SplineSet
  248 189 248 189 238 196.5 c 128,-1,63
  228 204 228 204 228 212 c 2,22,-1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: ljudi
@@ -3662,7 +3662,7 @@ SplineSet
  167 181 167 181 154 124.5 c 128,-1,31
  141 68 141 68 141 41 c 1,0,-1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: myslete
@@ -3718,7 +3718,7 @@ SplineSet
  162 21 162 21 162 12 c 2,62,-1
  162 0 l 1,0,1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: nash
@@ -3763,7 +3763,7 @@ SplineSet
  172 109 172 109 172 45 c 2,46,-1
  172 0 l 1,0,1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: on
@@ -3806,7 +3806,7 @@ SplineSet
  123 367 123 367 123 302 c 128,-1,36
  123 237 123 237 190 129 c 0,22,23
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: pokoj
@@ -3835,7 +3835,7 @@ SplineSet
  175 366 175 366 175 230 c 128,-1,20
  175 94 175 94 186 0 c 1,0,1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: rtsy
@@ -3885,7 +3885,7 @@ SplineSet
  222 293 l 2,48,49
  219 314 219 314 218 331 c 1,37,38
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: slovo
@@ -3923,7 +3923,7 @@ SplineSet
  248 168 248 168 250 168 c 1,32,33
  262 157 262 157 262 132 c 2,0,-1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: tverdo
@@ -3966,7 +3966,7 @@ SplineSet
  408 108 l 2,39,40
  408 70 408 70 410 0 c 1,0,1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: uk
@@ -4109,7 +4109,7 @@ SplineSet
  412 111 l 1,80,-1
  412 67 l 1,69,70
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: kher
@@ -4160,7 +4160,7 @@ SplineSet
  40 -433 40 -433 24 -444 c 128,-1,53
  8 -455 8 -455 0 -455 c 0,0,1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: tsy
@@ -4207,7 +4207,7 @@ SplineSet
  502 -369 l 1,42,43
  502 -369 502 -369 502 -390 c 1,0,-1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: cherv
@@ -4246,7 +4246,7 @@ SplineSet
  399 397 399 397 395 336 c 1,35,-1
  393 262 l 2,0,1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: sha
@@ -4285,7 +4285,7 @@ SplineSet
  782 451 l 1,35,-1
  810 451 l 1,0,1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: shcha
@@ -4297,7 +4297,7 @@ AnchorPoint: "titlo" 421 547 basechar 0
 LayerCount: 2
 Fore
 Refer: 242 57379 N 1 0 0 1 0 0 2
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: er
@@ -4349,7 +4349,7 @@ SplineSet
  196 25 l 1,44,-1
  312 25 l 1,37,38
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: ery
@@ -4366,7 +4366,7 @@ LayerCount: 2
 Fore
 Refer: 251 57437 N 1 0 0 1 447 0 2
 Refer: 249 57435 N 1 0 0 1 0 0 2
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: ere
@@ -4403,7 +4403,7 @@ SplineSet
  176 25 l 1,26,-1
  290 25 l 1,18,19
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: jus
@@ -4458,7 +4458,7 @@ SplineSet
  464 260 464 260 451 297 c 128,-1,52
  438 334 438 334 416 334 c 0,43,44
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: est_shirokij
@@ -4587,7 +4587,7 @@ SplineSet
  204 449 204 449 216 449 c 2,68,-1
  268 446 l 1,0,-1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: jizhe
@@ -4595,13 +4595,11 @@ Encoding: 1111 1111 97
 Width: 261
 GlyphClass: 2
 Flags: W
-AnchorPoint: "titlo" 127 692 basechar 0
-AnchorPoint: "chislotitlo" 126 322 basechar 0
+AnchorPoint: "titlo" 127 721 basechar 0
 LayerCount: 2
 Fore
 Refer: 29 776 N 1 0 0 1 389 0 2
 Refer: 236 57357 N 1 0 0 1 0 0 2
-Validated: 1048577
 EndChar
 
 StartChar: Omegha
@@ -4655,7 +4653,7 @@ SplineSet
  273 75 273 75 300 47 c 1,58,-1
  441 178 l 1,0,1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: omegha
@@ -4713,7 +4711,7 @@ SplineSet
  455 445 455 445 444 415 c 128,-1,67
  433 385 433 385 433 348 c 2,0,-1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: Ed
@@ -4776,7 +4774,7 @@ SplineSet
  644 25 l 1,51,-1
  644 368 l 1,47,48
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: ed
@@ -4839,7 +4837,7 @@ SplineSet
  493 82 493 82 457 147 c 0,59,60
  446 166 446 166 438 175 c 1,50,51
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: Jest
@@ -4942,7 +4940,7 @@ SplineSet
  899 640 899 640 890 640 c 2,121,-1
  659 626 l 2,0,1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: jest
@@ -5003,7 +5001,7 @@ SplineSet
  124 453 124 453 145 453 c 2,67,-1
  176 453 l 1,0,1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: Us_malyj
@@ -5075,7 +5073,7 @@ SplineSet
  372 613 372 613 302 478 c 1,64,-1
  577 478 l 1,59,60
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: us_malyj
@@ -5138,7 +5136,7 @@ SplineSet
  265 309 265 309 215 229 c 1,67,-1
  373 229 l 1,62,-1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: Jus_malyj
@@ -5223,7 +5221,7 @@ SplineSet
  626 609 626 609 558 478 c 1,81,-1
  833 478 l 1,76,77
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: jus_malyj
@@ -5307,7 +5305,7 @@ SplineSet
  403 309 403 309 353 229 c 1,99,-1
  511 229 l 1,94,-1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: Us_bolshoj
@@ -5376,7 +5374,7 @@ SplineSet
  318 411 318 411 301 393 c 0,62,63
  190 283 190 283 190 136 c 0,9,10
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: us_bolshoj
@@ -5437,7 +5435,7 @@ SplineSet
  181 376 181 376 171 402 c 128,-1,62
  161 428 161 428 158 450 c 1,9,10
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: Jus_bolshoj
@@ -5519,7 +5517,7 @@ SplineSet
  585 411 585 411 567 393 c 0,75,76
  457 283 457 283 457 136 c 0,5,6
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: jus_bolshoj
@@ -5600,7 +5598,7 @@ SplineSet
  473 366 473 366 536 389 c 1,92,-1
  381 400 l 1,86,-1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: Ksy
@@ -5709,7 +5707,7 @@ SplineSet
  284 -226 284 -226 328 -194.5 c 128,-1,141
  372 -163 372 -163 450 -163 c 2,0,1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: ksy
@@ -5798,7 +5796,7 @@ SplineSet
  198 43 198 43 227.5 31.5 c 128,-1,111
  257 20 257 20 264 20 c 0,0,1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: Psy
@@ -5869,7 +5867,7 @@ SplineSet
  421 836 421 836 403 1038 c 1,83,-1
  375 1034 l 1,0,-1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: psy
@@ -5942,7 +5940,7 @@ SplineSet
  687 434 l 2,81,82
  675 410 675 410 675 386 c 1,0,-1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: Fita
@@ -6018,7 +6016,7 @@ SplineSet
  549 210 549 210 551 283 c 1,83,-1
  344 283 l 1,74,75
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: fita
@@ -6079,7 +6077,7 @@ SplineSet
  435 26 l 1,68,69
  432 175 432 175 401 225 c 0,60,61
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: Izhitsa
@@ -6123,7 +6121,7 @@ SplineSet
  450 683 450 683 472 713 c 0,32,33
  531 790 531 790 613 797 c 2,0,-1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: izhitsa
@@ -6171,7 +6169,7 @@ SplineSet
  343 423 343 423 438 451 c 1,44,-1
  470 451 l 2,0,1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: Izhitsa_i
@@ -6184,7 +6182,7 @@ LayerCount: 2
 Fore
 Refer: 265 57568 N 1 0 0 1 685 0 2
 Refer: 118 1140 N 1 0 0 1 0 0 2
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: izhitsa_i
@@ -6197,7 +6195,7 @@ LayerCount: 2
 Fore
 Refer: 119 1141 N 1 0 0 1 0 0 2
 Refer: 31 783 N 1 0 0 1 543 0 2
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: Onik
@@ -6214,7 +6212,7 @@ LayerCount: 2
 Fore
 Refer: 50 1054 N 1 0 0 1 0 0 2
 Refer: 84 1091 N 1 0 0 1 573 2 2
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: onik
@@ -6231,7 +6229,7 @@ LayerCount: 2
 Fore
 Refer: 84 1091 N 1 0 0 1 241 1 2
 Refer: 238 57363 N 1 0 0 1 0 0 2
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: On_shirokij
@@ -6284,7 +6282,7 @@ SplineSet
  503 50 503 50 506 20 c 1,50,51
  562 33 562 33 618 92 c 0,22,23
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: on_shirokij
@@ -6347,7 +6345,7 @@ Fore
 Refer: 275 57578 N 1 0 0 1 0 0 2
 Refer: 274 57577 N 1 0 0 1 971 2 2
 Refer: 193 42572 N 1 0 0 1 0 0 2
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: omegha_velikaja
@@ -6363,7 +6361,7 @@ Fore
 Refer: 272 57575 N 1 0 0 1 662 -85 2
 Refer: 194 42573 N 1 0 0 1 0 0 2
 Refer: 137 1159 N 1 0 0 1 719 -112 2
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: Ot
@@ -6376,7 +6374,7 @@ LayerCount: 2
 Fore
 Refer: 261 57459 N 1 0 0 1 1112 -2 2
 Refer: 245 57428 N 1 0 0 1 0 0 2
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: ot
@@ -6390,7 +6388,7 @@ LayerCount: 2
 Fore
 Refer: 163 11758 N 1 0 0 1 781 0 2
 Refer: 246 57429 N 1 0 0 1 0 0 2
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: Koppa
@@ -6454,7 +6452,7 @@ SplineSet
  501 -118 l 1,72,-1
  501 28 l 2,0,1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: koppa
@@ -6513,7 +6511,7 @@ SplineSet
  448 201 448 201 448 180 c 1,67,68
  449 180 449 180 448 178 c 0,0,1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: tysjachja
@@ -6889,7 +6887,7 @@ SplineSet
  -343 865 -343 865 -317 908 c 0,208,209
  -274 980 -274 980 -199 1023 c 0,184,185
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: endash
@@ -8357,7 +8355,7 @@ StartChar: ed_titlo
 Encoding: 11770 11770 175
 Width: 0
 GlyphClass: 4
-Flags: HW
+Flags: W
 AnchorPoint: "bukvotitlo" -240 778 basemark 0
 AnchorPoint: "titlo" -242 480 mark 0
 LayerCount: 2
@@ -8406,7 +8404,7 @@ SplineSet
  -223.095 522.667 -223.095 522.667 -225 516 c 1,54,-1
  -174 516 l 1,47,48
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: jus_titlo
@@ -8754,7 +8752,7 @@ SplineSet
  539 0 l 1,50,-1
  51 0 l 1,0,-1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: zemlja_khvostatyj
@@ -8818,7 +8816,7 @@ SplineSet
  98 328 98 328 98 329 c 2,64,-1
  99 342 l 1,0,-1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: Dzelo_khvostatyj
@@ -8889,7 +8887,7 @@ SplineSet
  585 764 l 1,73,-1
  456 486 l 1,0,-1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: dzelo_khvostatyj
@@ -8977,7 +8975,7 @@ SplineSet
  98 329 l 1,96,-1
  99 342 l 1,0,-1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: Dzelo_obratnyj
@@ -9055,7 +9053,7 @@ SplineSet
  183 774 l 2,90,91
  188 774 188 774 191 766 c 2,0,1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: dzelo_obratnyj
@@ -9116,7 +9114,7 @@ SplineSet
  227 449 227 449 258 446 c 1,68,-1
  316 446 l 1,0,-1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: Jota
@@ -9159,7 +9157,7 @@ SplineSet
  346 27 346 27 355 70 c 0,32,33
  367 125 367 125 411 125 c 0,0,1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: jota
@@ -9195,7 +9193,7 @@ SplineSet
  246 25 246 25 291 19 c 1,25,-1
  308 28 l 2,0,1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: Gherv
@@ -9257,7 +9255,7 @@ SplineSet
  608 0 l 1,54,-1
  608 25 l 1,0,-1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: gherv
@@ -9315,7 +9313,7 @@ SplineSet
  445 154 445 154 400 160 c 1,59,-1
  383 151 l 1,0,-1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: Ukon
@@ -9401,7 +9399,7 @@ SplineSet
  473 99 473 99 464 99 c 2,91,-1
  221 99 l 2,58,59
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: ukon
@@ -9465,7 +9463,7 @@ SplineSet
  312 74 312 74 312 119.5 c 128,-1,65
  312 165 312 165 274 218 c 1,56,-1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: Omegha_shirokaja
@@ -9540,7 +9538,7 @@ SplineSet
  579 -8 579 -8 529.5 20.5 c 128,-1,85
  480 49 480 49 453 92 c 1,0,1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: omegha_shirokaja
@@ -9605,7 +9603,7 @@ SplineSet
  518 -8 518 -8 449 51 c 0,64,65
  429 67 429 67 418 82 c 1,0,1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: Eri
@@ -9658,7 +9656,7 @@ SplineSet
  114 25 l 1,45,-1
  332 606 l 2,4,5
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: eri
@@ -9714,7 +9712,7 @@ SplineSet
  110 301 l 2,49,50
  110 298 110 298 115 275 c 1,8,9
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: Ery_er
@@ -9731,7 +9729,7 @@ LayerCount: 2
 Fore
 Refer: 235 57356 N 1 0 0 1 630 2 2
 Refer: 61 1066 N 1 0 0 1 0 0 2
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: ery_er
@@ -9748,7 +9746,7 @@ LayerCount: 2
 Fore
 Refer: 236 57357 N 1 0 0 1 442 2 2
 Refer: 91 1098 N 1 0 0 1 -5 0 2
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: Jed
@@ -9815,7 +9813,7 @@ SplineSet
  681 25 l 1,54,-1
  681 368 l 1,50,51
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: jed
@@ -9883,7 +9881,7 @@ SplineSet
  162 202 l 1,67,-1
  162 166 l 2,11,12
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: Jus_obratnyj
@@ -9951,7 +9949,7 @@ SplineSet
  301 23 301 23 358 75 c 1,67,68
  406 151 406 151 406 322 c 0,47,48
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: jus_obratnyj
@@ -10007,7 +10005,7 @@ SplineSet
  497 201 l 1,52,-1
  497 165 l 2,8,9
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: Jaz
@@ -10023,7 +10021,7 @@ AnchorPoint: "dykhotitlo" 479 864 basechar 0
 LayerCount: 2
 Fore
 Refer: 243 57406 N 1 0 0 1 0 0 2
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: jaz
@@ -10039,7 +10037,7 @@ AnchorPoint: "titlo" 307 547 basechar 0
 LayerCount: 2
 Fore
 Refer: 244 57407 N 1 0 0 1 0 0 2
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: Az_podkrytyj
@@ -10119,7 +10117,7 @@ SplineSet
  146 104 146 104 167.5 73.5 c 128,-1,80
  189 43 189 43 220 43 c 2,65,-1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: az_podkrytyj
@@ -10173,7 +10171,7 @@ SplineSet
  207 150 207 150 156 37 c 2,51,-1
  151 26 l 1,43,44
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: Us_srednij
@@ -10251,7 +10249,7 @@ SplineSet
  598 412 598 412 520 458 c 0,73,74
  503 468 503 468 469 468 c 2,63,-1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: us_srednij
@@ -10319,7 +10317,7 @@ SplineSet
  340 366 340 366 403 389 c 1,67,-1
  248 400 l 1,61,-1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: Jaz_podkrytyj
@@ -10407,7 +10405,7 @@ SplineSet
  542 117 542 117 572 80 c 128,-1,85
  602 43 602 43 626 43 c 2,69,-1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: jaz_podkrytyj
@@ -10486,7 +10484,7 @@ SplineSet
  309 -7 309 -7 302 -7 c 2,85,-1
  272 -7 l 1,25,26
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: Yn
@@ -10541,7 +10539,7 @@ SplineSet
  319 349 319 349 301 314 c 2,44,-1
  266 246 l 2,0,1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: yn
@@ -10595,7 +10593,7 @@ SplineSet
  167 181 167 181 154 124.5 c 128,-1,50
  141 68 141 68 141 41 c 1,0,-1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: Dobro_mjagkij
@@ -10667,7 +10665,7 @@ SplineSet
  214 165 214 165 214 110.5 c 128,-1,76
  214 56 214 56 230 25 c 1,67,-1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: dobro_mjagkij
@@ -10734,7 +10732,7 @@ SplineSet
  430 330 l 1,70,-1
  431 317 l 1,7,-1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: Ljudi_mjagkij
@@ -10786,7 +10784,7 @@ SplineSet
  735 650 735 650 736 641 c 2,48,-1
  738 613 l 2,0,1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: ljudi_mjagkij
@@ -10834,7 +10832,7 @@ SplineSet
  145 37 l 1,46,47
  151 11 151 11 151 0 c 1,0,-1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: Myslete_mjagkij
@@ -10902,7 +10900,7 @@ SplineSet
  988 655 988 655 988 641 c 2,64,-1
  990 613 l 2,0,1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: myslete_mjagkij
@@ -10975,7 +10973,7 @@ SplineSet
  166 20 166 20 166 12 c 2,80,-1
  166 0 l 1,0,-1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: On_edinokij
@@ -10992,7 +10990,7 @@ LayerCount: 2
 Fore
 Refer: 50 1054 N 1 0 0 1 0 0 2
 Refer: 12 46 N 1 0 0 1 208 352 2
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: on_edinokij
@@ -11009,7 +11007,7 @@ LayerCount: 2
 Fore
 Refer: 12 46 N 1 0 0 1 128 174 2
 Refer: 79 1086 N 1 0 0 1 0 0 2
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: On_dvuokij
@@ -11027,7 +11025,7 @@ Fore
 Refer: 12 46 N 1 0 0 1 426 338 2
 Refer: 12 46 N 1 0 0 1 216 338 2
 Refer: 124 1146 N 1 0 0 1 0 0 2
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: on_dvuokij
@@ -11045,7 +11043,7 @@ Fore
 Refer: 12 46 N 1 0 0 1 390 178 2
 Refer: 12 46 N 1 0 0 1 188 176 2
 Refer: 125 1147 N 1 0 0 1 0 0 2
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: On_edinokij_dvojnoj
@@ -11151,7 +11149,7 @@ SplineSet
  433 404 433 404 433 418 c 2,118,-1
  433 438 l 1,93,94
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: on_edinokij_dvojnoj
@@ -11230,7 +11228,7 @@ SplineSet
  123 367 123 367 123 302 c 128,-1,81
  123 237 123 237 190 129 c 0,67,68
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: on_edinokij_mnozhij
@@ -11253,14 +11251,14 @@ Refer: 247 57433 N 1 0 0 1 102 194 2
 Refer: 247 57433 N 1 0 0 1 340 196 2
 Refer: 247 57433 N 1 0 0 1 579 196 2
 Refer: 248 57434 N 1 0 0 1 0 0 2
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: pokrytie_titlo
 Encoding: 42607 42607 226
 Width: 0
 GlyphClass: 4
-Flags: HMW
+Flags: MW
 AnchorPoint: "titlo" -231 548 mark 0
 LayerCount: 2
 Fore
@@ -11338,7 +11336,7 @@ StartChar: tmatem
 Encoding: 42610 42610 229
 Width: 0
 GlyphClass: 4
-Flags: HW
+Flags: W
 AnchorPoint: "chislotitlo" -264 241 mark 0
 LayerCount: 2
 Fore
@@ -13049,7 +13047,7 @@ EndChar
 StartChar: shirokoje_pokrytie_titlo
 Encoding: 57579 57579 279
 Width: 0
-Flags: HW
+Flags: W
 AnchorPoint: "titlo" -245 548 mark 0
 LayerCount: 2
 Fore
@@ -13075,6 +13073,34 @@ SplineSet
  -37 553 -37 553 -37 560 c 0,29,30
  -37 629 -37 629 -85 648 c 1,0,1
 EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: izhe_i
+Encoding: 1110 1110 280
+Width: 261
+Flags: W
+AnchorPoint: "dykhotitlo" 130 546 basechar 0
+AnchorPoint: "tjazhkotitlo" 130 546 basechar 0
+AnchorPoint: "ostrotitlo" 130 546 basechar 0
+AnchorPoint: "titlo" 130 546 basechar 0
+AnchorPoint: "vozglastitlo" 130 546 basechar 0
+AnchorPoint: "chislotitlo" 128 240 basechar 0
+LayerCount: 2
+Fore
+Refer: 236 57357 N 1 0 0 1 0 0 2
+Validated: 1
+EndChar
+
+StartChar: Jizhe
+Encoding: 1031 1031 281
+Width: 317
+Flags: W
+AnchorPoint: "titlo" 152 1044 basechar 0
+LayerCount: 2
+Fore
+Refer: 29 776 N 1 0 0 1 414 332 2
+Refer: 35 1030 N 1 0 0 1 0 0 2
 Validated: 1
 EndChar
 EndChars

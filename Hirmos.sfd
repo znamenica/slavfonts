@@ -20,7 +20,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1249988326
-ModificationTime: 1279581905
+ModificationTime: 1280130854
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -572,10 +572,10 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 80 16 9
+WinInfo: 144 16 9
 TeXData: 1 0 0 184320 92160 61440 457728 1048576 61440 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "vozglastitlo"  "+BCEEQwQxBEIEMAQxBDsEOARGBDAA Mark to base attachment +BEEEPwRABDAEMgQ6BDAA 0" "chislotitlo"  "+BCEEQwQxBEIEMAQxBDsEOARGBDAA Mark to base attachment +BEEEPwRABDAEMgQ6BDAA 0" "dykhotitlo"  "+BCEEQwQxBEIEMAQxBDsEOARGBDAA Mark to base attachment +BEEEPwRABDAEMgQ6BDAA 0" "titlo"  "+BCEEQwQxBEIEMAQxBDsEOARGBDAA Mark to base attachment +BEEEPwRABDAEMgQ6BDAA 0" "tjazhkotitlo"  "+BCEEQwQxBEIEMAQxBDsEOARGBDAA Mark to base attachment +BEEEPwRABDAEMgQ6BDAA 0" "ostrotitlo"  "+BCEEQwQxBEIEMAQxBDsEOARGBDAA Mark to base attachment +BEEEPwRABDAEMgQ6BDAA 0" "bukvotitlo"  "+BCEEQwQxBEIEMAQxBDsEOARGBDAA Mark to Mark attachment +BEEEPwRABDAEMgQ6BDAA 1" 
-BeginChars: 65539 279
+BeginChars: 65539 280
 
 StartChar: .notdef
 Encoding: 65536 -1 0
@@ -1877,11 +1877,11 @@ Encoding: 1045 1045 41
 Width: 675
 GlyphClass: 2
 Flags: W
-AnchorPoint: "vozglastitlo" 333 864 basechar 0
-AnchorPoint: "titlo" 332 864 basechar 0
-AnchorPoint: "ostrotitlo" 332 864 basechar 0
-AnchorPoint: "tjazhkotitlo" 332 864 basechar 0
-AnchorPoint: "dykhotitlo" 332 864 basechar 0
+AnchorPoint: "vozglastitlo" 342 864 basechar 0
+AnchorPoint: "titlo" 341 864 basechar 0
+AnchorPoint: "ostrotitlo" 341 864 basechar 0
+AnchorPoint: "tjazhkotitlo" 341 864 basechar 0
+AnchorPoint: "dykhotitlo" 341 864 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -3089,12 +3089,12 @@ Encoding: 1072 1072 65
 Width: 405
 GlyphClass: 2
 Flags: W
-AnchorPoint: "vozglastitlo" 244 547 basechar 0
-AnchorPoint: "titlo" 244 547 basechar 0
-AnchorPoint: "ostrotitlo" 244 547 basechar 0
-AnchorPoint: "tjazhkotitlo" 244 547 basechar 0
+AnchorPoint: "vozglastitlo" 231 547 basechar 0
+AnchorPoint: "titlo" 231 547 basechar 0
+AnchorPoint: "ostrotitlo" 231 547 basechar 0
+AnchorPoint: "tjazhkotitlo" 231 547 basechar 0
 AnchorPoint: "chislotitlo" 200 238 basechar 0
-AnchorPoint: "dykhotitlo" 244 547 basechar 0
+AnchorPoint: "dykhotitlo" 231 547 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -3137,7 +3137,7 @@ Encoding: 1073 1073 66
 Width: 465
 GlyphClass: 2
 Flags: W
-AnchorPoint: "titlo" 244 548 basechar 0
+AnchorPoint: "titlo" 238 548 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -3315,11 +3315,11 @@ Encoding: 1077 1077 70
 Width: 337
 GlyphClass: 2
 Flags: W
-AnchorPoint: "vozglastitlo" 180 547 basechar 0
-AnchorPoint: "titlo" 181 547 basechar 0
-AnchorPoint: "ostrotitlo" 181 547 basechar 0
-AnchorPoint: "tjazhkotitlo" 181 547 basechar 0
-AnchorPoint: "dykhotitlo" 181 547 basechar 0
+AnchorPoint: "vozglastitlo" 185 547 basechar 0
+AnchorPoint: "titlo" 186 547 basechar 0
+AnchorPoint: "ostrotitlo" 186 547 basechar 0
+AnchorPoint: "tjazhkotitlo" 186 547 basechar 0
+AnchorPoint: "dykhotitlo" 186 547 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -3576,7 +3576,7 @@ Encoding: 1082 1082 75
 Width: 517
 GlyphClass: 2
 Flags: W
-AnchorPoint: "titlo" 273 550 basechar 0
+AnchorPoint: "titlo" 264 550 basechar 0
 AnchorPoint: "chislotitlo" 261 238 basechar 0
 LayerCount: 2
 Fore
@@ -3634,7 +3634,7 @@ Encoding: 1083 1083 76
 Width: 450
 GlyphClass: 2
 Flags: W
-AnchorPoint: "titlo" 285 546 basechar 0
+AnchorPoint: "titlo" 281 546 basechar 0
 AnchorPoint: "chislotitlo" 225 238 basechar 0
 LayerCount: 2
 Fore
@@ -3771,11 +3771,11 @@ Encoding: 1086 1086 79
 Width: 491
 GlyphClass: 2
 Flags: W
-AnchorPoint: "vozglastitlo" 242 548 basechar 0
-AnchorPoint: "titlo" 242 548 basechar 0
-AnchorPoint: "ostrotitlo" 242 548 basechar 0
-AnchorPoint: "tjazhkotitlo" 242 548 basechar 0
-AnchorPoint: "dykhotitlo" 242 548 basechar 0
+AnchorPoint: "vozglastitlo" 246 548 basechar 0
+AnchorPoint: "titlo" 246 548 basechar 0
+AnchorPoint: "ostrotitlo" 246 548 basechar 0
+AnchorPoint: "tjazhkotitlo" 246 548 basechar 0
+AnchorPoint: "dykhotitlo" 246 548 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -3814,7 +3814,7 @@ Encoding: 1087 1087 80
 Width: 522
 GlyphClass: 2
 Flags: W
-AnchorPoint: "titlo" 262 547 basechar 0
+AnchorPoint: "titlo" 268 547 basechar 0
 AnchorPoint: "chislotitlo" 262 238 basechar 0
 LayerCount: 2
 Fore
@@ -3843,7 +3843,7 @@ Encoding: 1088 1088 81
 Width: 359
 GlyphClass: 2
 Flags: W
-AnchorPoint: "titlo" 172 547 basechar 0
+AnchorPoint: "titlo" 174 547 basechar 0
 AnchorPoint: "chislotitlo" 175 238 basechar 0
 LayerCount: 2
 Fore
@@ -3931,7 +3931,7 @@ Encoding: 1090 1090 83
 Width: 667
 GlyphClass: 2
 Flags: W
-AnchorPoint: "titlo" 338 547 basechar 0
+AnchorPoint: "titlo" 344 547 basechar 0
 AnchorPoint: "chislotitlo" 334 238 basechar 0
 LayerCount: 2
 Fore
@@ -3976,7 +3976,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "vozglastitlo" 274 547 basechar 0
 AnchorPoint: "dykhotitlo" 274 547 basechar 0
-AnchorPoint: "chislotitlo" 276 68 basechar 0
+AnchorPoint: "chislotitlo" 277 223 basechar 0
 AnchorPoint: "tjazhkotitlo" 274 547 basechar 0
 AnchorPoint: "ostrotitlo" 274 547 basechar 0
 AnchorPoint: "titlo" 274 547 basechar 0
@@ -4043,7 +4043,7 @@ Encoding: 1092 1092 85
 Width: 729
 GlyphClass: 2
 Flags: W
-AnchorPoint: "titlo" 374 649 basechar 0
+AnchorPoint: "titlo" 366 649 basechar 0
 AnchorPoint: "chislotitlo" 374 210 basechar 0
 LayerCount: 2
 Fore
@@ -4117,7 +4117,7 @@ Encoding: 1093 1093 86
 Width: 485
 GlyphClass: 2
 Flags: W
-AnchorPoint: "titlo" 244 547 basechar 0
+AnchorPoint: "titlo" 241 547 basechar 0
 AnchorPoint: "chislotitlo" 236 26 basechar 0
 LayerCount: 2
 Fore
@@ -4168,8 +4168,8 @@ Encoding: 1094 1094 87
 Width: 562
 GlyphClass: 2
 Flags: W
-AnchorPoint: "titlo" 263 547 basechar 0
-AnchorPoint: "chislotitlo" 294 66 basechar 0
+AnchorPoint: "titlo" 265 547 basechar 0
+AnchorPoint: "chislotitlo" 280 232 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -4466,12 +4466,12 @@ Encoding: 1108 1108 95
 Width: 616
 GlyphClass: 2
 Flags: W
-AnchorPoint: "vozglastitlo" 353 547 basechar 0
-AnchorPoint: "titlo" 351 547 basechar 0
-AnchorPoint: "ostrotitlo" 351 547 basechar 0
-AnchorPoint: "tjazhkotitlo" 351 547 basechar 0
-AnchorPoint: "chislotitlo" 298 118 basechar 0
-AnchorPoint: "dykhotitlo" 351 547 basechar 0
+AnchorPoint: "vozglastitlo" 322 546 basechar 0
+AnchorPoint: "titlo" 320 546 basechar 0
+AnchorPoint: "ostrotitlo" 320 546 basechar 0
+AnchorPoint: "tjazhkotitlo" 320 546 basechar 0
+AnchorPoint: "chislotitlo" 320 118 basechar 0
+AnchorPoint: "dykhotitlo" 320 546 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -4785,7 +4785,7 @@ Width: 672
 GlyphClass: 2
 Flags: W
 AnchorPoint: "vozglastitlo" 370 737 basechar 0
-AnchorPoint: "titlo" 373 810 basechar 0
+AnchorPoint: "titlo" 373 850 basechar 0
 AnchorPoint: "ostrotitlo" 446 547 basechar 0
 AnchorPoint: "tjazhkotitlo" 644 547 basechar 0
 AnchorPoint: "dykhotitlo" 548 547 basechar 0
@@ -5075,6 +5075,7 @@ SplineSet
  372 613 372 613 302 478 c 1,64,-1
  577 478 l 1,59,60
 EndSplineSet
+Validated: 1048577
 EndChar
 
 StartChar: us_malyj
@@ -5716,7 +5717,7 @@ Encoding: 1135 1135 113
 Width: 483
 GlyphClass: 2
 Flags: W
-AnchorPoint: "titlo" 244 635 basechar 0
+AnchorPoint: "titlo" 240 657 basechar 0
 AnchorPoint: "chislotitlo" 253 207 basechar 0
 LayerCount: 2
 Fore
@@ -5805,7 +5806,7 @@ Encoding: 1136 1136 114
 Width: 905
 GlyphClass: 2
 Flags: W
-AnchorPoint: "titlo" 485 1107 basechar 0
+AnchorPoint: "titlo" 485 1136 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -5876,8 +5877,8 @@ Encoding: 1137 1137 115
 Width: 723
 GlyphClass: 2
 Flags: W
-AnchorPoint: "titlo" 360 732 basechar 0
-AnchorPoint: "chislotitlo" 366 253 basechar 0
+AnchorPoint: "titlo" 360 746 basechar 0
+AnchorPoint: "chislotitlo" 358 249 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -6026,7 +6027,7 @@ Width: 757
 GlyphClass: 2
 Flags: W
 AnchorPoint: "titlo" 375 547 basechar 0
-AnchorPoint: "chislotitlo" 380 142 basechar 0
+AnchorPoint: "chislotitlo" 363 142 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -6178,7 +6179,7 @@ Encoding: 1142 1142 120
 Width: 694
 GlyphClass: 2
 Flags: W
-AnchorPoint: "titlo" 305 1043 basechar 0
+AnchorPoint: "titlo" 305 1104 basechar 0
 LayerCount: 2
 Fore
 Refer: 265 57568 N 1 0 0 1 685 0 2
@@ -6191,7 +6192,7 @@ Encoding: 1143 1143 121
 Width: 531
 GlyphClass: 2
 Flags: W
-AnchorPoint: "titlo" 256 726 basechar 0
+AnchorPoint: "titlo" 256 741 basechar 0
 LayerCount: 2
 Fore
 Refer: 119 1141 N 1 0 0 1 0 0 2
@@ -6204,11 +6205,11 @@ Encoding: 1144 1144 122
 Width: 1129
 GlyphClass: 2
 Flags: W
-AnchorPoint: "vozglastitlo" 848 546 basechar 0
-AnchorPoint: "dykhotitlo" 849 547 basechar 0
-AnchorPoint: "tjazhkotitlo" 849 547 basechar 0
-AnchorPoint: "ostrotitlo" 849 547 basechar 0
-AnchorPoint: "titlo" 849 547 basechar 0
+AnchorPoint: "vozglastitlo" 822 546 basechar 0
+AnchorPoint: "dykhotitlo" 823 547 basechar 0
+AnchorPoint: "tjazhkotitlo" 823 547 basechar 0
+AnchorPoint: "ostrotitlo" 823 547 basechar 0
+AnchorPoint: "titlo" 823 547 basechar 0
 LayerCount: 2
 Fore
 Refer: 50 1054 N 1 0 0 1 0 0 2
@@ -6238,11 +6239,11 @@ Encoding: 1146 1146 124
 Width: 860
 GlyphClass: 2
 Flags: W
-AnchorPoint: "vozglastitlo" 432 864 basechar 0
-AnchorPoint: "titlo" 431 864 basechar 0
-AnchorPoint: "ostrotitlo" 431 864 basechar 0
-AnchorPoint: "tjazhkotitlo" 431 864 basechar 0
-AnchorPoint: "dykhotitlo" 431 864 basechar 0
+AnchorPoint: "vozglastitlo" 432 901 basechar 0
+AnchorPoint: "titlo" 431 901 basechar 0
+AnchorPoint: "ostrotitlo" 431 901 basechar 0
+AnchorPoint: "tjazhkotitlo" 431 901 basechar 0
+AnchorPoint: "dykhotitlo" 431 901 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -6340,7 +6341,7 @@ Encoding: 1148 1148 126
 Width: 969
 GlyphClass: 2
 Flags: W
-AnchorPoint: "titlo" 470 1110 basechar 0
+AnchorPoint: "titlo" 470 1145 basechar 0
 LayerCount: 2
 Fore
 Refer: 275 57578 N 1 0 0 1 0 0 2
@@ -6354,9 +6355,9 @@ Encoding: 1149 1149 127
 Width: 896
 GlyphClass: 2
 Flags: W
-AnchorPoint: "titlo" 410 789 basechar 0
-AnchorPoint: "ostrotitlo" 410 789 basechar 0
-AnchorPoint: "tjazhkotitlo" 410 789 basechar 0
+AnchorPoint: "titlo" 410 804 basechar 0
+AnchorPoint: "ostrotitlo" 410 804 basechar 0
+AnchorPoint: "tjazhkotitlo" 410 804 basechar 0
 LayerCount: 2
 Fore
 Refer: 272 57575 N 1 0 0 1 662 -85 2
@@ -6370,7 +6371,7 @@ Encoding: 1150 1150 128
 Width: 1110
 GlyphClass: 2
 Flags: W
-AnchorPoint: "titlo" 557 1044 basechar 0
+AnchorPoint: "titlo" 557 1087 basechar 0
 LayerCount: 2
 Fore
 Refer: 261 57459 N 1 0 0 1 1112 -2 2
@@ -6383,8 +6384,8 @@ Encoding: 1151 1151 129
 Width: 799
 GlyphClass: 2
 Flags: W
-AnchorPoint: "titlo" 402 773 basechar 0
-AnchorPoint: "chislotitlo" 389 375 basechar 0
+AnchorPoint: "titlo" 402 787 basechar 0
+AnchorPoint: "chislotitlo" 389 397 basechar 0
 LayerCount: 2
 Fore
 Refer: 163 11758 N 1 0 0 1 781 0 2
@@ -6461,7 +6462,7 @@ Encoding: 1153 1153 131
 Width: 491
 GlyphClass: 2
 Flags: W
-AnchorPoint: "titlo" 226 547 basechar 0
+AnchorPoint: "titlo" 239 547 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -6621,7 +6622,7 @@ Encoding: 1157 1157 135
 Width: 0
 GlyphClass: 4
 Flags: W
-AnchorPoint: "dykhotitlo" -210 456 mark 0
+AnchorPoint: "dykhotitlo" -232 456 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -6683,7 +6684,7 @@ Width: 0
 GlyphClass: 4
 Flags: W
 AnchorPoint: "titlo" -256 644 mark 0
-AnchorPoint: "bukvotitlo" -319 753 mark 0
+AnchorPoint: "bukvotitlo" -294 744 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -6715,7 +6716,7 @@ EndChar
 
 StartChar: legion
 Encoding: 1160 1160 138
-Width: 375
+Width: 0
 GlyphClass: 4
 Flags: W
 AnchorPoint: "chislotitlo" -256 224 mark 0
@@ -6734,10 +6735,10 @@ EndChar
 
 StartChar: leodr
 Encoding: 1161 1161 139
-Width: 669
+Width: 0
 GlyphClass: 4
-Flags: HW
-AnchorPoint: "chislotitlo" -239 274 mark 0
+Flags: W
+AnchorPoint: "chislotitlo" -229 259 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -7175,7 +7176,7 @@ EndChar
 
 StartChar: tma
 Encoding: 8413 8413 148
-Width: 242
+Width: 0
 GlyphClass: 4
 Flags: W
 AnchorPoint: "chislotitlo" -248 237 mark 0
@@ -7368,7 +7369,7 @@ Encoding: 11748 11748 153
 Width: 0
 GlyphClass: 4
 Flags: W
-AnchorPoint: "bukvotitlo" -171 795 basemark 0
+AnchorPoint: "bukvotitlo" -189 820 basemark 0
 AnchorPoint: "titlo" -239 522 mark 0
 LayerCount: 2
 Fore
@@ -7414,7 +7415,7 @@ Encoding: 11749 11749 154
 Width: 0
 GlyphClass: 4
 Flags: W
-AnchorPoint: "bukvotitlo" -267 856 basemark 0
+AnchorPoint: "bukvotitlo" -290 866 basemark 0
 AnchorPoint: "titlo" -232 534 mark 0
 LayerCount: 2
 Fore
@@ -7771,7 +7772,7 @@ Encoding: 11758 11758 163
 Width: 0
 GlyphClass: 4
 Flags: W
-AnchorPoint: "bukvotitlo" -375 796 basemark 0
+AnchorPoint: "bukvotitlo" -423 876 basemark 0
 AnchorPoint: "titlo" -373 553 mark 0
 LayerCount: 2
 Fore
@@ -7805,7 +7806,7 @@ Encoding: 11759 11759 164
 Width: 1
 GlyphClass: 4
 Flags: W
-AnchorPoint: "bukvotitlo" -221 879 basemark 0
+AnchorPoint: "bukvotitlo" -207 956 basemark 0
 AnchorPoint: "titlo" -225 601 mark 0
 LayerCount: 2
 Fore
@@ -7943,7 +7944,7 @@ Encoding: 11762 11762 167
 Width: 0
 GlyphClass: 4
 Flags: W
-AnchorPoint: "bukvotitlo" -239 712 basemark 0
+AnchorPoint: "bukvotitlo" -247 787 basemark 0
 AnchorPoint: "titlo" -239 519 mark 0
 LayerCount: 2
 Fore
@@ -7982,7 +7983,7 @@ Encoding: 11763 11763 168
 Width: 0
 GlyphClass: 4
 Flags: W
-AnchorPoint: "bukvotitlo" -240 727 basemark 0
+AnchorPoint: "bukvotitlo" -246 810 basemark 0
 AnchorPoint: "titlo" -239 431 mark 0
 LayerCount: 2
 Fore
@@ -8036,7 +8037,7 @@ Encoding: 11764 11764 169
 Width: 0
 GlyphClass: 4
 Flags: W
-AnchorPoint: "bukvotitlo" -254 763 basemark 0
+AnchorPoint: "bukvotitlo" -243 753 basemark 0
 AnchorPoint: "titlo" -250 468 mark 0
 LayerCount: 2
 Fore
@@ -8092,7 +8093,7 @@ Encoding: 11765 11765 170
 Width: 0
 GlyphClass: 4
 Flags: W
-AnchorPoint: "bukvotitlo" -259 754 basemark 0
+AnchorPoint: "bukvotitlo" -266 770 basemark 0
 AnchorPoint: "titlo" -261 508 mark 0
 LayerCount: 2
 Fore
@@ -8356,7 +8357,7 @@ StartChar: ed_titlo
 Encoding: 11770 11770 175
 Width: 0
 GlyphClass: 4
-Flags: W
+Flags: HW
 AnchorPoint: "bukvotitlo" -240 778 basemark 0
 AnchorPoint: "titlo" -242 480 mark 0
 LayerCount: 2
@@ -8398,14 +8399,14 @@ SplineSet
  -313 551 l 1,44,45
  -325 549 -325 549 -335.5 549 c 128,-1,46
  -346 549 -346 549 -355 551 c 1,0,1
--174 490 m 1,47,48
- -181 521 -181 521 -201 547 c 1,49,50
+-174 516 m 1,47,48
+ -181.324 552 -181.324 552 -201 547 c 1,49,50
  -219 543 -219 543 -222 538 c 1,51,-1
- -224 509 l 2,52,53
- -224 496 -224 496 -225 490 c 1,54,-1
- -174 490 l 1,47,48
+ -223 524 l 2,52,53
+ -223.095 522.667 -223.095 522.667 -225 516 c 1,54,-1
+ -174 516 l 1,47,48
 EndSplineSet
-Validated: 1
+Validated: 524321
 EndChar
 
 StartChar: jus_titlo
@@ -8633,10 +8634,10 @@ EndChar
 
 StartChar: jus_bolshoj_titlo
 Encoding: 11775 11775 180
-Width: 762
+Width: 0
 GlyphClass: 4
 Flags: W
-AnchorPoint: "bukvotitlo" -217 721 basemark 0
+AnchorPoint: "bukvotitlo" -278 773 basemark 0
 AnchorPoint: "titlo" -219 519 mark 0
 LayerCount: 2
 Fore
@@ -9264,7 +9265,7 @@ Encoding: 42569 42569 190
 Width: 680
 GlyphClass: 2
 Flags: W
-AnchorPoint: "titlo" 371 808 basechar 0
+AnchorPoint: "titlo" 371 850 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -9409,7 +9410,7 @@ Width: 467
 GlyphClass: 2
 Flags: W
 AnchorPoint: "vozglastitlo" 280 625 basechar 0
-AnchorPoint: "dykhotitlo" 278 582 basechar 0
+AnchorPoint: "dykhotitlo" 281 580 basechar 0
 AnchorPoint: "tjazhkotitlo" 374 626 basechar 0
 AnchorPoint: "ostrotitlo" 209 580 basechar 0
 AnchorPoint: "titlo" 273 961 basechar 0
@@ -9826,7 +9827,7 @@ AnchorPoint: "vozglastitlo" 370 737 basechar 0
 AnchorPoint: "dykhotitlo" 548 547 basechar 0
 AnchorPoint: "tjazhkotitlo" 644 547 basechar 0
 AnchorPoint: "ostrotitlo" 446 547 basechar 0
-AnchorPoint: "titlo" 373 810 basechar 0
+AnchorPoint: "titlo" 373 845 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -11259,41 +11260,36 @@ StartChar: pokrytie_titlo
 Encoding: 42607 42607 226
 Width: 0
 GlyphClass: 4
-Flags: W
-AnchorPoint: "titlo" -245 548 mark 0
+Flags: HMW
+AnchorPoint: "titlo" -231 548 mark 0
 LayerCount: 2
 Fore
 SplineSet
--85 648 m 1,0,1
- -85 648 -85 648 -88 648 c 0,2,3
- -95 648 -95 648 -121.5 658.5 c 128,-1,4
- -148 669 -148 669 -165.5 669 c 128,-1,5
- -183 669 -183 669 -232 667 c 1,6,7
- -233 669 -233 669 -291.5 669 c 128,-1,8
- -350 669 -350 669 -367 666 c 128,-1,9
- -384 663 -384 663 -401 650 c 0,10,11
- -449 613 -449 613 -449 560 c 0,12,13
- -449 553 -449 553 -448 548 c 1,14,15
- -467 545 -467 545 -496 545 c 128,-1,16
- -525 545 -525 545 -547 548 c 1,17,18
- -543 609 -543 609 -489 662 c 1,19,20
- -396 713 -396 713 -243 713 c 128,-1,21
- -90 713 -90 713 3 662 c 1,22,23
- 57 609 57 609 61 548 c 1,24,25
- 39 545 39 545 10 545 c 128,-1,26
- -19 545 -19 545 -38 548 c 1,27,28
- -37 553 -37 553 -37 560 c 0,29,30
- -37 629 -37 629 -85 648 c 1,0,1
+-177 624 m 0,0,1
+ -194 640 -194 640 -232 640 c 128,-1,2
+ -270 640 -270 640 -289 622 c 0,3,4
+ -323 592 -323 592 -323 560 c 0,5,6
+ -323 553 -323 553 -322 548 c 1,7,8
+ -341 545 -341 545 -368.5 545 c 128,-1,9
+ -396 545 -396 545 -418 548 c 1,10,11
+ -415 609 -415 609 -364 640 c 1,12,13
+ -313 678 -313 678 -239 678 c 128,-1,14
+ -165 678 -165 678 -94 639 c 1,15,16
+ -48 586 -48 586 -46 548 c 1,17,18
+ -68 545 -68 545 -94 545 c 128,-1,19
+ -120 545 -120 545 -139 548 c 1,20,21
+ -137 552 -137 552 -138 560 c 0,22,23
+ -141 591 -141 591 -177 624 c 0,0,1
 EndSplineSet
 Validated: 1
 EndChar
 
 StartChar: vran
 Encoding: 42608 42608 227
-Width: 345
+Width: 0
 GlyphClass: 4
 Flags: W
-AnchorPoint: "chislotitlo" -250 234 mark 0
+AnchorPoint: "chislotitlo" -252 233 mark 0
 LayerCount: 2
 Fore
 Refer: 276 57584 N 1 0 0 1 -718 416 2
@@ -11309,10 +11305,10 @@ EndChar
 
 StartChar: koloda
 Encoding: 42609 42609 228
-Width: 174
+Width: 0
 GlyphClass: 4
 Flags: W
-AnchorPoint: "chislotitlo" -265 254 mark 0
+AnchorPoint: "chislotitlo" -263 254 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -11340,16 +11336,16 @@ EndChar
 
 StartChar: tmatem
 Encoding: 42610 42610 229
-Width: 354
+Width: 0
 GlyphClass: 4
 Flags: HW
-AnchorPoint: "chislotitlo" -266 241 mark 0
+AnchorPoint: "chislotitlo" -264 241 mark 0
 LayerCount: 2
 Fore
-Refer: 278 57587 S 1 0 0 1 -433 459 2
-Refer: 277 57586 N -6.10352e-05 -1 1 -6.10352e-05 -521 -61 2
-Refer: 277 57586 N 1 0 0 1 19 -24 2
-Refer: 277 57586 N 1 0 0 1 -866 -23 2
+Refer: 278 57587 N 1 0 0 1 -433 504 2
+Refer: 277 57586 S -6.10352e-05 -1 1 -6.10352e-05 -521 -125 2
+Refer: 277 57586 N 1 0 0 1 33 -24 2
+Refer: 277 57586 N 1 0 0 1 -889 -23 2
 Validated: 1
 EndChar
 
@@ -13046,6 +13042,38 @@ SplineSet
  191 112 l 1,10,-1
  145 112 l 1,11,-1
  145 231 l 1,0,-1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: shirokoje_pokrytie_titlo
+Encoding: 57579 57579 279
+Width: 0
+Flags: HW
+AnchorPoint: "titlo" -245 548 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-85 648 m 1,0,1
+ -85 648 -85 648 -88 648 c 0,2,3
+ -95 648 -95 648 -121.5 658.5 c 128,-1,4
+ -148 669 -148 669 -165.5 669 c 128,-1,5
+ -183 669 -183 669 -232 667 c 1,6,7
+ -233 669 -233 669 -291.5 669 c 128,-1,8
+ -350 669 -350 669 -367 666 c 128,-1,9
+ -384 663 -384 663 -401 650 c 0,10,11
+ -449 613 -449 613 -449 560 c 0,12,13
+ -449 553 -449 553 -448 548 c 1,14,15
+ -467 545 -467 545 -496 545 c 128,-1,16
+ -525 545 -525 545 -547 548 c 1,17,18
+ -543 609 -543 609 -489 662 c 1,19,20
+ -396 713 -396 713 -243 713 c 128,-1,21
+ -90 713 -90 713 3 662 c 1,22,23
+ 57 609 57 609 61 548 c 1,24,25
+ 39 545 39 545 10 545 c 128,-1,26
+ -19 545 -19 545 -38 548 c 1,27,28
+ -37 553 -37 553 -37 560 c 0,29,30
+ -37 629 -37 629 -85 648 c 1,0,1
 EndSplineSet
 Validated: 1
 EndChar

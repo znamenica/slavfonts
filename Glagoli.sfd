@@ -4,7 +4,7 @@ FullName: Glagoli
 FamilyName: Glagoli
 Weight: Obyk
 Copyright: Copyright (c) Vladislav V. Dorosh, Calmius Software, 2007-2008. All rights reserved.\n\nCopyright (c) Malo Skrylevo, 2009-2011. All rights reserved.
-Version: 0.1
+Version: 0.1b
 ItalicAngle: 0
 UnderlinePosition: -39
 UnderlineWidth: 7
@@ -20,7 +20,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1249988326
-ModificationTime: 1306331149
+ModificationTime: 1306331765
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5

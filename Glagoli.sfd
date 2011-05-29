@@ -3,7 +3,7 @@ FontName: Glagoli
 FullName: Glagoli
 FamilyName: Glagoli
 Weight: Obyk
-Copyright: Copyright (c) Vladislav V. Dorosh, Calmius Software, 2007-2008. All rights reserved.\n\nCopyright (c) Malo Skrylevo, 2009-2011. All rights reserved.
+Copyright: Copyright (c) Vladislav V. Dorosh, Calmius Software, 2007-2008 for Hirmos Ucs font. All rights reserved.\n\nCopyright (c) Malo Skrylevo, 2009-2011. All rights reserved.
 Version: 0.1rc1
 ItalicAngle: 0
 UnderlinePosition: -39
@@ -14,14 +14,13 @@ sfntRevision: 0x00010000
 LayerCount: 2
 Layer: 0 1 "+BBcEMAQ0BD0EOAQ5 +BD8EOwQwBD0A"  1
 Layer: 1 1 "+BB8ENQRABDUENAQ9BDgEOQAA +BD8EOwQwBD0A"  0
-NeedsXUIDChange: 1
 XUID: [1021 535 545739686 14474180]
 FSType: 0
 OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1249988326
-ModificationTime: 1306509192
+ModificationTime: 1306676550
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -70,9 +69,9 @@ Lookup: 1 7 0 "+BB4ENAQ4BD0EPgRHBD0EMARP +BD8EPgQ0BEEEQgQwBD0EPgQyBDoEMAAA +BEIE
 Lookup: 260 0 0 "'mark' +BB8EPgRBBDAENgQ1BD0EOAQ1 +BDEEQwQ6BDIEMAAA--+BD0EMAQ0BEEEQgRABD4ERwQ9BDgEOgAA"  {"+BB8EPgRBBDAENgQ1BD0EOAQ1 +BDEEQwQ6BDIEMAAA--+BD0EMAQ0BEEEQgRABD4ERwQ9BDgEOgAA--1"  } ['mark' ('cyrl' <'dflt' > ) ]
 Lookup: 262 0 0 "'mkmk' +BB8EPgRBBDAENgQ1BD0EOAQ1 +BD0EMAQ0BEEEQgRABD4ERwQ9BDgEOgAA--+BD0EMAQ0BEEEQgRABD4ERwQ9BDgEOgAA"  {"+BB8EPgRBBDAENgQ1BD0EOAQ1 +BD0EMAQ0BEEEQgRABD4ERwQ9BDgEOgQw--+BD0EMAQ0BEEEQgRABD4ERwQ9BDgEOgAA--1"  } ['mkmk' ('cyrl' <'dflt' > ) ]
 Lookup: 258 0 0 "'kern' +BCEEOgQ7BDUEOAQyBDAEPQQ4BDUA (+BDoENQRABD0EOAQ9BDMA) +BDIEQQQ/BD4EPAQ+BDMEMARCBDUEOwRMBD0ESwRF +BDcEPQQwBDoEPgQy"  {"+BCEEQwQxBEIEMAQxBDsEOARGBDAA +BB8EMARABD0EPgQ1 +BEAEMAQ3BDwENQRJBDUEPQQ4BDUA (+BDoENQRABD0EOAQ9BDMA) +BEEEPwRABDAEMgQ6BDAA 2" [153,15,0] } ['kern' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 258 0 0 "'kern' +BCEENAQyBD4ENQQ9BDgENQAA +BEEEQgRABD4ERwQ9BEsERQAA +BDcEPQQwBDoEPgQy +BDIA +BDoEOARABDgEOwQ7BDgERgQ1"  {"'kern' +BCEEOgQ7BDUEOAQyBDAEPQQ4BDUA (+BDoENQRABD0EOAQ9BDMA) +BDEEQwQ6BDIA +BEEEQgRABD4ERwQ9BDAETwAA--+BEEEQgRABD4ERwQ9BDAETwAA" [103,53,1] } ['kern' ('DFLT' <'dflt' > 'cyrl' <'dflt' > ) ]
-Lookup: 258 0 0 "'kern' +BCEENAQyBD4ENQQ9BDgENQAA +BDcEMAQzBDsEMAQyBD0ESwRF +BDEEQwQ6BDIA +BEEEPgAA +BEEEQgRABD4ERwQ9BEsEPAQ4 +BDIA +BDoEOARABDgEOwQ7BDgERgQ1"  {"'kern' +BCEEOgQ7BDUEOAQyBDAEPQQ4BDUA (+BDoENQRABD0EOAQ9BDMA) +BDEEQwQ6BDIA +BDcEMAQzBDsEMAQyBD0EMARP--+BEEEQgRABD4ERwQ9BDAETwAA" [103,53,1] } ['kern' ('DFLT' <'dflt' > 'cyrl' <'dflt' > ) ]
-Lookup: 258 0 0 "'kern' +BCEENAQyBD4ENQQ9BDgENQAA +BDcEMAQzBDsEMAQyBD0ESwRF +BDEEQwQ6BDIA +BDIA +BDoEOARABDgEOwQ7BDgERgQ1"  {"'kern' +BCEENAQyBD4ENQQ9BDgENQAA +BDcEMAQzBDsEMAQyBD0ESwRF +BDEEQwQ6BDIA +BDIA +BDoEOARABDgEOwQ7BDgERgQ1--1" [103,53,1] "'kern' +BCEENAQyBD4ENQQ9BDgENQAA +BDcEMAQzBDsEMAQyBD0ESwRF +BDEEQwQ6BDIA +BDIA +BDoEOARABDgEOwQ7BDgERgQ1--2" [103,53,1] } ['kern' ('DFLT' <'dflt' > 'cyrl' <'dflt' > ) ]
+Lookup: 258 8 0 "'kern' +BCEENAQyBD4ENQQ9BDgENQAA +BEEEQgRABD4ERwQ9BEsERQAA +BDcEPQQwBDoEPgQy +BDIA +BDoEOARABDgEOwQ7BDgERgQ1"  {"'kern' +BCEEOgQ7BDUEOAQyBDAEPQQ4BDUA (+BDoENQRABD0EOAQ9BDMA) +BDEEQwQ6BDIA +BEEEQgRABD4ERwQ9BDAETwAA--+BEEEQgRABD4ERwQ9BDAETwAA" [103,53,1] } ['kern' ('DFLT' <'dflt' > 'cyrl' <'dflt' > ) ]
+Lookup: 258 8 0 "'kern' +BCEENAQyBD4ENQQ9BDgENQAA +BDcEMAQzBDsEMAQyBD0ESwRF +BDEEQwQ6BDIA +BEEEPgAA +BEEEQgRABD4ERwQ9BEsEPAQ4 +BDIA +BDoEOARABDgEOwQ7BDgERgQ1"  {"'kern' +BCEEOgQ7BDUEOAQyBDAEPQQ4BDUA (+BDoENQRABD0EOAQ9BDMA) +BDEEQwQ6BDIA +BDcEMAQzBDsEMAQyBD0EMARP--+BEEEQgRABD4ERwQ9BDAETwAA" [103,53,1] } ['kern' ('DFLT' <'dflt' > 'cyrl' <'dflt' > ) ]
+Lookup: 258 8 0 "'kern' +BCEENAQyBD4ENQQ9BDgENQAA +BDcEMAQzBDsEMAQyBD0ESwRF +BDEEQwQ6BDIA +BDIA +BDoEOARABDgEOwQ7BDgERgQ1"  {"'kern' +BCEENAQyBD4ENQQ9BDgENQAA +BDcEMAQzBDsEMAQyBD0ESwRF +BDEEQwQ6BDIA +BDIA +BDoEOARABDgEOwQ7BDgERgQ1--1" [103,53,1] "'kern' +BCEENAQyBD4ENQQ9BDgENQAA +BDcEMAQzBDsEMAQyBD0ESwRF +BDEEQwQ6BDIA +BDIA +BDoEOARABDgEOwQ7BDgERgQ1--2" [103,53,1] } ['kern' ('DFLT' <'dflt' > 'cyrl' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
 ChainSub2: class "'ccmp' +BBoEPgQ8BD8EPgQ3BDgERgQ4BE8A-/+BDQENQQ6BD4EPAQ/BD4ENwQ4BEYEOARP +BEMENwQ6BDgERQAA +BDgA +BEgEOARABD4EOgQ4BEUA +BDcEPQQwBDoEPgQy +BDIA +BDoEOARABDgEOwQ7BDgERgQ1"  2 3 1 2
@@ -9611,7 +9610,7 @@ StartChar: Us_mal_podkryt
 Encoding: 42584 42584 204
 Width: 909
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 AnchorPoint: "vozglas_titlo" 434 864 basechar 0
 AnchorPoint: "titlo" 433 864 basechar 0
 AnchorPoint: "ostro_titlo" 433 864 basechar 0
@@ -9672,7 +9671,7 @@ StartChar: us_mal_podkryt
 Encoding: 42585 42585 205
 Width: 637
 GlyphClass: 2
-Flags: HMWO
+Flags: MW
 AnchorPoint: "vozglas_titlo" 301 547 basechar 0
 AnchorPoint: "dyho_titlo" 301 547 basechar 0
 AnchorPoint: "cxazxis_titlo" 301 547 basechar 0
@@ -9880,7 +9879,7 @@ StartChar: Jus_mal_podkryt
 Encoding: 42588 42588 208
 Width: 1130
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 AnchorPoint: "vozglas_titlo" 549 864 basechar 0
 AnchorPoint: "titlo" 550 864 basechar 0
 AnchorPoint: "ostro_titlo" 550 864 basechar 0
@@ -9951,7 +9950,7 @@ StartChar: jus_mal_podkryt
 Encoding: 42589 42589 209
 Width: 762
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 AnchorPoint: "vozglas_titlo" 351 547 basechar 0
 AnchorPoint: "dyho_titlo" 350 546 basechar 0
 AnchorPoint: "cxazxis_titlo" 350 546 basechar 0

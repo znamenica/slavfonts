@@ -1,0 +1,144 @@
+SplineFontDB: 3.0
+FontName: golubcik
+FullName: golubcik
+FamilyName: golubcik
+Weight: Medium
+Copyright: Created by Malo "majioa" Skrylevo with FontForge 2.0 (http://fontforge.sf.net)
+UComments: "+BCgEQAQ4BEQEQgAA +BBMEPgQ7BEMEMQRHBDgEOgRK, +BD8EQAQ1BDQEPQQwBDcEPQQwBEcENQQ9 +BDQEOwRP +BD0EMAQxBD4EQAQw +BEIENQQ6BEEEQgQ+BDIA +BDcEPQQwBDwENQQ9BD0EPgQzBD4A +BEAEPgRBBD8ENQQyBDAA.+AAoA-2014-11-6: Created. +AAoA" 
+Version: 001.000
+ItalicAngle: 0
+UnderlinePosition: -109
+UnderlineWidth: 54
+Ascent: 880
+Descent: 220
+LayerCount: 2
+Layer: 0 0 "+BBcEMAQ0BD0EOAQ5 +BD8EOwQwBD0A"  1
+Layer: 1 0 "+BB8ENQRABDUENAQ9BDgEOQAA +BD8EOwQwBD0A"  0
+XUID: [1021 728 247045135 7382410]
+FSType: 8
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1415267640
+ModificationTime: 1415279280
+PfmFamily: 17
+TTFWeight: 500
+TTFWidth: 5
+LineGap: 106
+VLineGap: 0
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 106
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+OS2Vendor: 'PfEd'
+MarkAttachClasses: 1
+DEI: 91125
+LangName: 1033 "" "" "" "" "" "" "" "" "" "" "" "" "" "Copyright (c) 2014, Malo +ACIA-majioa+ACIA Skrylevo (majioa@yanbdex.ru),+AAoA-with Reserved Font Name golubcik.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL" 
+Encoding: UnicodeFull
+Compacted: 1
+UnicodeInterp: none
+NameList: Adobe Glyph List
+DisplaySize: -24
+AntiAlias: 1
+FitToEm: 1
+WinInfo: 0 47 15
+BeginPrivate: 0
+EndPrivate
+TeXData: 1 0 0 346030 173015 115343 0 1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
+BeginChars: 1114112 1
+
+StartChar: uniE000
+Encoding: 57344 57344 0
+Width: 1100
+VWidth: 0
+Flags: HW
+HStem: 455 105<560.513 606.851> 612 56<894.733 944.834>
+VStem: 7 3<-174.364 -174> 649 107<580.609 638.445> 866 28<668.629 760.113> 956 56<751.424 796.75>
+LayerCount: 2
+Fore
+SplineSet
+649 604 m 1
+ 648.491 605.526 648.258 606.939 648.258 608.267 c 0
+ 648.258 617.385 659.272 622.526 668 633 c 0
+ 683 650 709 694 738 706 c 0
+ 741 708 744 708 746 706 c 0
+ 764 691 787 687 787 664 c 0
+ 787 642 769 629 756 608 c 8
+ 746 591 736 570 712 570 c 25
+ 705 561 694 564 686 571 c 24
+ 671 583 663 585 649 604 c 1
+542 455 m 0
+ 528.554 455 505.882 456.845 505.882 469.395 c 0
+ 505.882 469.912 505.921 470.446 506 471 c 0
+ 512 504 531 524 544 550 c 24
+ 548 558 552 570 560 574 c 24
+ 571 579 579 572 586 569 c 24
+ 601 562 621 560 638 560 c 25
+ 646 552 637 535 634 527 c 24
+ 623 486 596 455 542 455 c 0
+1012 837 m 8
+ 1012 777 973 747 973 687 c 16
+ 973 681 976 679 980 679 c 0
+ 991 679 1012 694 1020 706 c 8
+ 1051 752 1048 770 1074 836 c 0
+ 1078 846 1097 843 1093 831 c 0
+ 1075 774 1062 735 1037 691 c 0
+ 1028 674 1017 659 1006 654 c 0
+ 939 628 957 625 899 612 c 1
+ 894 612 889 614 881 616 c 1
+ 868 628 866 622 866 641 c 2
+ 866 682 l 2
+ 866 727 870 733 882 766 c 0
+ 885 773 899 797 907 800 c 0
+ 918 803 916 793 914 784 c 0
+ 905 754 894 732 894 706 c 0
+ 894 693 895 668 912 668 c 0
+ 922 668 935 674 943 684 c 0
+ 952 694 950 715 956 734 c 16
+ 962 752 997 846 1008 846 c 1
+ 1014 844 1012 842 1012 837 c 8
+487 272 m 0
+ 494 315 517 335 544 358 c 24
+ 659 460 723 520 841 618 c 24
+ 844 621 854 622 851 612 c 0
+ 836 569 803 541 772 513 c 24
+ 684 433 608 361 508 291 c 24
+ 499 284 485 261 487 272 c 0
+370 63 m 16
+ 367 63 366 66 366 71 c 0
+ 366 124 398 140 406 185 c 1
+ 406 192 402 195 397 192 c 0
+ 340 162 316 143 276 106 c 0
+ 261 92 243 81 232 64 c 0
+ 229 61 228 72 230 76 c 24
+ 236 98 251 120 262 137 c 0
+ 292 185 339 206 382 238 c 24
+ 402 253 431 280 456 284 c 0
+ 463 285 465 273 460 265 c 0
+ 427 210 424 133 388 81 c 24
+ 382 73 380 63 370 63 c 16
+171 -133 m 0
+ 171 -124 172 -112 172 -105 c 1
+ 178 -87 220 -36 220 -28 c 1
+ 219 -25 209 -32 206 -34 c 0
+ 111 -82 48 -130 10 -174 c 0
+ 4 -182 3 -175 7 -162 c 0
+ 13 -143 23 -96 37 -84 c 0
+ 133 0 183 13 274 51 c 0
+ 299 61 283 36 276 26 c 0
+ 246 -23 242 -28 235 -49 c 0
+ 222 -87 187 -116 175 -141 c 0
+ 172 -148 171 -142 171 -133 c 0
+EndSplineSet
+EndChar
+EndChars
+EndSplineFont
